@@ -240,17 +240,6 @@ app.layout = html.Div([
         
         html.Div([
             
-            html.Div([
-            
-            html.Section(id="slideshow", children=[
-                html.Div(id="slideshow-container", children=[
-                    html.Div(id="image"),
-                    dcc.Interval(id='interval', interval=3000)
-                ],
-                    style={})
-            ]),
-        
-        ], style={'text-align':'center'}),
     
             html.H3('About Us:', style={'font-family':'avenir',}),
             html.P("Welcome to KIDSMART, where you can shop for the best clothes for your kids! "),
