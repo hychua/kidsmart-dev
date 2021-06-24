@@ -12,6 +12,7 @@ from dash.dependencies import Input, Output, State
 import base64
 import pandas as pd
 import dash_table
+import time
 
 df = pd.read_csv("product_table.csv")
 columns=[{"name": i, "id": i} for i in df.columns]
@@ -52,8 +53,9 @@ fuchsia_encoded = base64.b64encode(open(fuchsia_icon, 'rb').read())
 def product_div(image, name, price, view):
     return html.Div([
         html.Div([
+            
         html.Img(src='data:image/png;base64,{}'.format(image.decode()),
-                                 style={'width':200}),
+                                 style={'width':300}),
 
         
         ],
@@ -61,10 +63,10 @@ def product_div(image, name, price, view):
                                         'margin':10,}),
         html.Div([
             
-            html.H2(name),
-            html.H1(price ,style={'color':'green'}),
-            html.H3("Sizes Available: Ⓢ / Ⓜ / Ⓛ"),
-            html.H3("Recommended Age: 1-8 yrs")
+            html.H1(name, style={'font-family':'calibri'}),
+            html.H1(price ,style={'color':'green','font-family':'calibri'}),
+            html.H2("Sizes Available: Ⓢ / Ⓜ / Ⓛ", style={'font-family':'calibri'}),
+            html.H2("Recommended Age: 1-8 yrs", style={'font-family':'calibri'})
             
         ],
                                  style={'display':'inline-block','margin-left':25,
@@ -76,12 +78,12 @@ def product_div(image, name, price, view):
                             id=view,
                             n_clicks=0,
                             children='View',
-                            style={'fontSize':24,
+                            style={'fontSize':36,
                                    'color':'white',
                                    'backgroundColor':'green',
                                    'borderRadius':5,
                                    'height':50,'width':150,
-                                   'font-family':'minion', 'display':'inline-block',
+                                   'font-family':'calibri', 'display':'inline-block',
                                    'margin':10}),
                 html.Button(
                             id='fav-button',
@@ -248,7 +250,7 @@ app.layout = html.Div([
               
               [Input('search-bar', 'value'),
                ])
-def costumes_content(search):
+def products_content(search):
     div_list = list()
     if search == None:
         return [html.Br(),
@@ -277,7 +279,6 @@ def costumes_content(search):
         return [html.H1('No items match your search.')]
     else:
         return div_list
-
 
 if __name__ == '__main__':
     app.run_server(debug=False)
