@@ -245,15 +245,15 @@ app.layout = html.Div([
                 html.H3('Where We Are:'),
                 html.Div([
                     html.P('Tutuban Center Mall, C.M. Recto cor. R Antonio St., Binondo, Manila'),
-                    html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.82211922851!2d120.97065481432026!3d14.609206880783512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca0ce2555559%3A0x322c377e80b267e8!2sTutuban%20Shopping%20Mall!5e0!3m2!1sen!2sph!4v1624427880406!5m2!1sen!2sph",
-                        ),
+                    #html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.82211922851!2d120.97065481432026!3d14.609206880783512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca0ce2555559%3A0x322c377e80b267e8!2sTutuban%20Shopping%20Mall!5e0!3m2!1sen!2sph!4v1624427880406!5m2!1sen!2sph",
+                    #    ),
                 ],
                          style={'display':'inline-block'}),
                 
                 html.Div([
                     html.P('168 Shopping Mall, 918 Soler St, Binondo, Manila, 1006 Metro Manila'),
-                    html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61776.1681570088!2d120.9600329777667!3d14.598476951293357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca0ec391ad93%3A0x510fd5abc4fc32b8!2s168%20Shopping%20Mall!5e0!3m2!1sen!2sph!4v1624431949045!5m2!1sen!2sph", 
-                        ),
+                    #html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61776.1681570088!2d120.9600329777667!3d14.598476951293357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca0ec391ad93%3A0x510fd5abc4fc32b8!2s168%20Shopping%20Mall!5e0!3m2!1sen!2sph!4v1624431949045!5m2!1sen!2sph", 
+                    #    ),
                     ],
                         style={'display':'inline-block','margin-left':25}),
                 
