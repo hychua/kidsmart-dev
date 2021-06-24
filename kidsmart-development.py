@@ -26,11 +26,6 @@ app.title = "KIDSMART Online Catalogue (DEV)"
 image_filename = 'kidsmart_logo_red.png' # replace with your own image
 encoded_image = base64.b64encode(open(image_filename, 'rb').read())
 
-user_icon = 'user_icon.png' 
-user_encoded = base64.b64encode(open(user_icon, 'rb').read())
-heart_icon = 'heart_icon.png' 
-heart_encoded = base64.b64encode(open(heart_icon, 'rb').read())
-
 # carousel pictures
 img0_icon = 'img0.png' 
 img0 = base64.b64encode(open(img0_icon, 'rb').read())
