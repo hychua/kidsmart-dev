@@ -26,9 +26,6 @@ app.title = "KIDSMART Online Catalogue (DEV)"
 image_filename = 'kidsmart_logo_red.png' # replace with your own image
 encoded_image = base64.b64encode(open(image_filename, 'rb').read())
 
-map_icon = 'tutuban_map.png' 
-map_encoded = base64.b64encode(open(map_icon, 'rb').read())
-
 user_icon = 'user_icon.png' 
 user_encoded = base64.b64encode(open(user_icon, 'rb').read())
 heart_icon = 'heart_icon.png' 
