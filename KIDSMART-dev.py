@@ -358,23 +358,6 @@ def costumes_content(search):
     else:
         return div_list
 
-# bear view callbacks
-
-
-# carousel images
-@app.callback(Output('image', 'children'),
-              [Input('interval', 'n_intervals')])
-def display_image(n):
-    if n == None or n % 3 == 1:
-        img = html.Img(src='data:image/png;base64,{}'.format(img0.decode()),style={'width':'50%'})
-    elif n % 3 == 2:
-        img = html.Img(src='data:image/png;base64,{}'.format(img1.decode()),style={'width':'50%'})
-    elif n % 3 == 0:
-        img = html.Img(src='data:image/png;base64,{}'.format(img5.decode()),style={'width':'50%'})
-    else:
-        img = "None"
-    return img
-
 
 if __name__ == '__main__':
     app.run_server(debug=False)
