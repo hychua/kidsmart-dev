@@ -12,7 +12,6 @@ from dash.dependencies import Input, Output, State
 import base64
 import pandas as pd
 import dash_table
-import clothes
 
 df = pd.read_csv("product_table.csv")
 columns=[{"name": i, "id": i} for i in df.columns]
