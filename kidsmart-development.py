@@ -63,10 +63,10 @@ def product_div(image, name, price, view):
                                         'margin':10,}),
         html.Div([
             
-            html.H1(name, style={'font-family':'calibri'}),
-            html.H1(price ,style={'color':'green','font-family':'calibri'}),
-            html.H2("Sizes Available: Ⓢ / Ⓜ / Ⓛ", style={'font-family':'calibri'}),
-            html.H2("Recommended Age: 1-8 yrs", style={'font-family':'calibri'})
+            html.H1(name, style={'font-family':'calibri','fontSize':36}),
+            html.H1(price ,style={'color':'green','font-family':'calibri','fontSize':36}),
+            html.H1("Sizes Available: Ⓢ / Ⓜ / Ⓛ", style={'font-family':'calibri'}),
+            html.H1("Recommended Age: 1-8 yrs", style={'font-family':'calibri'})
             
         ],
                                  style={'display':'inline-block','margin-left':25,
