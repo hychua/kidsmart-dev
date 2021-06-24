@@ -56,11 +56,6 @@ tinker_encoded = base64.b64encode(open(tinker_icon, 'rb').read())
 fuchsia_icon = 'fuchsiadress.jpg' 
 fuchsia_encoded = base64.b64encode(open(fuchsia_icon, 'rb').read())
 
-url_bar_and_content_div = html.Div([
-    dcc.Location(id='url', refresh=False),
-    html.Div(id='page-content')
-])
-
 # create a product div
 def product_div(image, name, price, view):
     return html.Div([
@@ -232,8 +227,6 @@ app.layout = html.Div([
         html.Div([
             
             header_page,
-            
-            url_bar_and_content_div
     
             ]),
             
@@ -286,31 +279,6 @@ app.layout = html.Div([
     
     ],
     )
-
-# Index callbacks
-@app.callback(
-    Output('page-content', 'children'),
-              
-    [Input('url', 'pathname'),]
-     )
-def display_page(pathname):
-    if pathname == "/fuchsia":
-        return fuchsia_page
-    else:
-        return html.Div()
-    
-# main menu callbacks
-@app.callback(
-    Output('url','pathname'),
-    [
-     Input('fuchsia-button','n_clicks')
-     ]
-    )
-def menu_output(fuchsia_button):   
-       if fuchsia_button:
-           return '/fuchsia'
-       else:
-           return "/"
 
 # Search callbacks
 @app.callback(Output('products-content', 'children'),
