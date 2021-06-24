@@ -1,1 +1,1 @@
-web: gunicorn kidsmart-dev:server
+web: gunicorn kidsmart-development:server
