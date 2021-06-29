@@ -252,7 +252,7 @@ account_page = html.Div([
     )
 
 tabs_styles = {
-    'height': '20%'
+    'height': '75px'
 }
 
 tab_style = {
