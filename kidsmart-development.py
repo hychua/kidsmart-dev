@@ -19,7 +19,7 @@ columns=[{"name": i, "id": i} for i in df.columns]
 data=df.to_dict("rows")
 name = df.name.unique().tolist()
 
-app = dash.Dash(__name__)
+app = dash.Dash(__name__, suppress_callback_exceptions=True)
 server = app.server
 
 app.title = "KIDSMART Online Catalogue (DEV)"
@@ -50,7 +50,7 @@ fuchsia_icon = 'fuchsiadress.jpg'
 fuchsia_encoded = base64.b64encode(open(fuchsia_icon, 'rb').read())
 
 # create a product div
-def product_div(image, name, price, view):
+def product_div(image, name, price, view, link):
     return html.Div([
         html.Div([
             
@@ -74,6 +74,9 @@ def product_div(image, name, price, view):
                                  ),
         
         html.Div([
+            dcc.Link('View Item', href=link, style={'display':'inline-block',
+                                               'fontSize':36, 'margin':20}),
+            
                 html.Button(
                             id=view,
                             n_clicks=0,
@@ -83,7 +86,7 @@ def product_div(image, name, price, view):
                                    'backgroundColor':'green',
                                    'borderRadius':5,
                                    'height':75,'width':150,
-                                   'font-family':'calibri', 'display':'inline-block',
+                                   'font-family':'calibri', 'display':'none',
                                    'margin':10}),
                 html.Button(
                             id='fav-button',
@@ -104,16 +107,36 @@ def product_div(image, name, price, view):
                  'backgroundColor':'rgb(255,255,255)'})
 
 # create a product div
-def product_page(image, name, price, view):
+def product_page(image, name, price):
     return html.Div([
         html.Div([
             
         html.Img(src='data:image/png;base64,{}'.format(image.decode()),
-                                 style={'width':500}),
-
+                                 style={'width':500, 'display':'none'}),
         
+        html.Div([
+
+            html.Section(id="slideshow", children=[
+                html.Div(id="slideshow-container", children=[
+                    html.Div(id="image"),
+                    html.Button(
+                            id='next-button',
+                            n_clicks=0,
+                            children='Next Image',
+                            style={'fontSize':28,
+                                   'color':'rgb(255,123,0)',
+                                   'backgroundColor':'rgb(255,255,255)',
+                                   'borderRadius':5,
+                                   'height':50,'width':200,
+                                   'font-family':'minion',
+                                   'margin':10,}),
+                ])
+            ])
+        
+        ])
+
         ],
-                                 style={'display':'inline-block','backgroundColor':'rgb(255,255,255)',
+                                 style={'backgroundColor':'rgb(255,255,255)',
                                         'margin':10,}),
         html.Div([
             
@@ -121,11 +144,9 @@ def product_page(image, name, price, view):
             html.H1(price ,style={'color':'green','font-family':'calibri'}),
             html.H1("Sizes Available: Ⓢ / Ⓜ / Ⓛ", style={'font-family':'calibri'}),
             html.H1("Recommended Age: 1-8 yrs", style={'font-family':'calibri'}),
-            html.P("Description")
+            html.P("Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis vulputate enim nulla aliquet. Elit sed vulputate mi sit amet mauris. Eget mauris pharetra et ultrices neque ornare aenean euismod. Dui nunc mattis enim ut tellus elementum sagittis vitae et. Euismod elementum nisi quis eleifend quam adipiscing vitae proin. Accumsan in nisl nisi scelerisque. Scelerisque mauris pellentesque pulvinar pellentesque. Risus commodo viverra maecenas accumsan. Dui id ornare arcu odio. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare. Tristique magna sit amet purus. Lectus sit amet est placerat in egestas erat imperdiet sed.")
             
         ],
-                                 style={'display':'inline-block','margin-left':25,
-                                        }
                                  ),
         
         html.Div([
@@ -143,24 +164,27 @@ def product_page(image, name, price, view):
                                    'margin':10,}),
                 ],
                 style={'float':'right'}),
+        html.Br(),
+        dcc.Link('Go back to Search', href='/',
+                 style={'fontSize':36}),
         
         ],
         style = {'border':'1px black solid','margin':3,'borderRadius':5,
-                 'backgroundColor':'rgb(255,255,255)'})
+                 'backgroundColor':'rgb(255,255,255)','text-align':'center'})
 
-bear_div = product_div(bear_encoded,"Bear Hooded Costume", "₱380.00","bear-button")
-dragon_div = product_div(dragon_encoded,"Dragon Hooded Costume", "₱380.00","dragon-button")
-elephant_div = product_div(elephant_encoded,"Elephant Hooded Costume", "₱380.00","elephant-button")
-zebra_div = product_div(zebra_encoded,"Zebra Hooded Costume", "₱380.00","zebra-button")
-fairy_div = product_div(tinker_encoded,"Forest Fairy Costume", "₱540.00","fairy-button")
-fuchsia_div = product_div(fuchsia_encoded,"Fuchsia Floral Dress", "₱540.00","fuchsia-button")
+bear_div = product_div(bear_encoded,"Bear Hooded Costume", "₱380.00","bear-button","/bear")
+dragon_div = product_div(dragon_encoded,"Dragon Hooded Costume", "₱380.00","dragon-button","/dragon")
+elephant_div = product_div(elephant_encoded,"Elephant Hooded Costume", "₱380.00","elephant-button","/elephant")
+zebra_div = product_div(zebra_encoded,"Zebra Hooded Costume", "₱380.00","zebra-button","/zebra")
+fairy_div = product_div(tinker_encoded,"Forest Fairy Costume", "₱540.00","fairy-button","/fairy")
+fuchsia_div = product_div(fuchsia_encoded,"Fuchsia Floral Dress", "₱540.00","fuchsia-button","/fuchsia")
 
-bear_page = product_page(bear_encoded,"Bear Hooded Costume", "₱380.00","bear-button")
-dragon_page = product_page(dragon_encoded,"Dragon Hooded Costume", "₱380.00","dragon-button")
-elephant_page = product_page(elephant_encoded,"Elephant Hooded Costume", "₱380.00","elephant-button")
-zebra_page = product_page(zebra_encoded,"Zebra Hooded Costume", "₱380.00","zebra-button")
-fairy_page = product_page(tinker_encoded,"Forest Fairy Costume", "₱540.00","fairy-button")
-fuchsia_page = product_page(fuchsia_encoded,"Fuchsia Floral Dress", "₱540.00","fuchsia-button")
+bear_page = product_page(bear_encoded,"Bear Hooded Costume", "₱380.00")
+dragon_page = product_page(dragon_encoded,"Dragon Hooded Costume", "₱380.00")
+elephant_page = product_page(elephant_encoded,"Elephant Hooded Costume", "₱380.00")
+zebra_page = product_page(zebra_encoded,"Zebra Hooded Costume", "₱380.00")
+fairy_page = product_page(tinker_encoded,"Forest Fairy Costume", "₱540.00")
+fuchsia_page = product_page(fuchsia_encoded,"Fuchsia Floral Dress", "₱540.00")
 
 header_page = html.Div([
     
@@ -215,7 +239,7 @@ about_page = html.Div([html.Br(),
                         html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61776.1681570088!2d120.9600329777667!3d14.598476951293357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca0ec391ad93%3A0x510fd5abc4fc32b8!2s168%20Shopping%20Mall!5e0!3m2!1sen!2sph!4v1624431949045!5m2!1sen!2sph"),
                     
                         ],
-                    style={'display':'inline-block','margin-left':25}),
+                    style={'display':'inline-block','margin-left':10}),
                 
                 html.Div([
                     html.H2('About Us:'),
@@ -233,13 +257,14 @@ about_page = html.Div([html.Br(),
                          style={'height':125}),
                     
                         ],
-                    style={'display':'inline-block','margin-left':25})
+                    style={'display':'inline-block','margin-left':10})
                 
                 
                 
                 ],
     style={'color':'rgb(255,255,255)','backgroundColor':'rgb(0,0,0)',
-           'font-family':'calibri'})
+           'font-family':'calibri','text-align':'center',
+                           'fontSize':'110%'})
                 
 
 
@@ -248,9 +273,10 @@ app.layout = html.Div([
         
         header_page,
                     
-        product_page,
-        
-        html.Br(),
+        html.Div([
+            dcc.Location(id='url', refresh=False),
+            html.Div(id='page-content')
+        ]),
         
         about_page
   
@@ -291,10 +317,45 @@ def products_content(search):
     else:
         return div_list
     
+# loading callback
 @app.callback(Output("loading-output-2", "children"), Input("search-bar", "value"))
 def input_triggers_nested(value):
     time.sleep(1)
     return value
+
+# carousel image callbacks
+@app.callback(Output('image', 'children'),
+              [Input('next-button', 'n_clicks')])
+def display_image(n):
+    if n % 3 == 0:
+        img = html.Img(src="http://placeimg.com/625/225/arch")
+    elif n % 3 == 1:
+        img = html.Img(src="http://placeimg.com/625/225/any")
+    elif n % 3 == 2:
+        img = html.Img(src="http://placeimg.com/625/225/animals")
+    else:
+        img = "None"
+    return img
+
+# Update the index
+@app.callback(dash.dependencies.Output('page-content', 'children'),
+              [dash.dependencies.Input('url', 'pathname')])
+def display_page(pathname):
+    if pathname == '/bear':
+        return bear_page
+    elif pathname == '/dragon':
+        return dragon_page
+    elif pathname == '/elephant':
+        return elephant_page
+    elif pathname == '/zebra':
+        return zebra_page
+    elif pathname == '/fairy':
+        return fairy_page
+    elif pathname == '/fuchsia':
+        return fuchsia_page
+    else:
+        return product_page
+    # You could also return a 404 "URL not found" page here
 
 if __name__ == '__main__':
     app.run_server(debug=False)
