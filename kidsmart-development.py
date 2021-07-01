@@ -196,120 +196,69 @@ header_page = html.Div([
 
                 ])
 
-product_page = html.Div([dcc.Loading(
+product_page = html.Div([
+                    dcc.Loading(
                                 id="loading-2",
                                 children=[html.Div([html.Div(id='products-content')])],
                                 type="circle",
                             ),
-    ]
-    )
+    ])
 
-about_page = html.Div([
-            
-            
-            html.H3('About Us:', style={'font-family':'avenir',}),
-            html.P("Welcome to KIDSMART, where you can shop for the best clothes for your kids! "),
-            
-            html.P("We sell children's clothes and costumes from infant to early teens.") ,
-            
-            html.P("We hope you enjoy our products as much as we enjoy offering them to you. ʕ•́ᴥ•̀ʔっ♡ Happy Shopping! ♡"),
-            
-            html.Div([
-                html.H3('Where We Are:'),
-                
-                html.P('Tutuban Center Mall, C.M. Recto cor. R Antonio St., Binondo, Manila'),
-                    #html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.82211922851!2d120.97065481432026!3d14.609206880783512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca0ce2555559%3A0x322c377e80b267e8!2sTutuban%20Shopping%20Mall!5e0!3m2!1sen!2sph!4v1624427880406!5m2!1sen!2sph"),
-                
-                html.P('168 Shopping Mall, 918 Soler St, Binondo, Manila, 1006 Metro Manila'),
-                    #html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61776.1681570088!2d120.9600329777667!3d14.598476951293357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca0ec391ad93%3A0x510fd5abc4fc32b8!2s168%20Shopping%20Mall!5e0!3m2!1sen!2sph!4v1624431949045!5m2!1sen!2sph"),
-
-            html.Div([
-                html.H3('Contact Us:'),
-                html.P('8123-4567'),
-                html.P('example@gmail.com'),
-            ],
-                ),
-            html.Div(
-                html.Img(src='data:image/png;base64,{}'.format(encoded_image.decode()),
-                         style={'height':125}),
-                 ),        
-                
-            ]),
-
-                  ],
-                     style={'text-align':'center'}),
-
-account_page = html.Div([
-    html.H1("Coming Soon..."),
-    html.P("This feature is not yet available. Check back soon for updates!"),
-    html.Div([
-                html.H3('Contact Us:'),
-                html.P('8123-4567'),
-                html.P('example@gmail.com'),
-            ],
-                ),
-    ]
-    )
-
-tabs_styles = {
-    'height': '75px'
-}
-
-tab_style = {
-    'borderBottom': '1px solid #d6d6d6',
-    'padding': '6px',
-    'fontSize':36,
-    'font-family':'avenir'
+about_page = html.Div([html.Br(),
     
-}
+                html.Div([
+                    html.H2('Where We Are:'),
+                    html.P('Tutuban Center Mall, C.M. Recto cor. R Antonio St., Binondo, Manila'),
+                        html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3860.82211922851!2d120.97065481432026!3d14.609206880783512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca0ce2555559%3A0x322c377e80b267e8!2sTutuban%20Shopping%20Mall!5e0!3m2!1sen!2sph!4v1624427880406!5m2!1sen!2sph"),
+                    
+                    html.P('168 Shopping Mall, 918 Soler St, Binondo, Manila, 1006 Metro Manila'),
+                        html.Iframe(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61776.1681570088!2d120.9600329777667!3d14.598476951293357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca0ec391ad93%3A0x510fd5abc4fc32b8!2s168%20Shopping%20Mall!5e0!3m2!1sen!2sph!4v1624431949045!5m2!1sen!2sph"),
+                    
+                        ],
+                    style={'display':'inline-block','margin-left':25}),
+                
+                html.Div([
+                    html.H2('About Us:'),
+                    html.P("Welcome to KIDSMART, where you can shop for the best clothes for your kids! "),
+                    
+                    html.P("We sell children's clothes and costumes from infant to early teens.") ,
+                    
+                    html.P("We hope you enjoy our products as much as we enjoy offering them to you. ʕ•́ᴥ•̀ʔっ♡ Happy Shopping! ♡"),
+                    html.Br(),
+                    html.H2('Contact Us:'),
+                    html.P('8123-4567'),
+                    html.P('example@gmail.com'),
+                    
+                    html.Img(src='data:image/png;base64,{}'.format(encoded_image.decode()),
+                         style={'height':125}),
+                    
+                        ],
+                    style={'display':'inline-block','margin-left':25})
+                
+                
+                
+                ],
+    style={'color':'rgb(255,255,255)','backgroundColor':'rgb(0,0,0)',
+           'font-family':'calibri'})
+                
 
-tab_selected_style = {
-    'borderTop': '1px solid #d6d6d6',
-    'borderBottom': '1px solid #d6d6d6',
-    'fontWeight': 'bold',
-    'color': 'red',
-    'padding': '6px',
-    'fontSize':36,
-    'font-family':'avenir'
-}
 
 app.layout = html.Div([
     html.Div([
         
         header_page,
                     
-        html.Div([
-            dcc.Tabs(id='tabs', value='search', children=[
-            dcc.Tab(label='🔎 Search', value='search',style=tab_style, 
-                    selected_style=tab_selected_style,
-                    ),
-            dcc.Tab(label='📕 About Us', value='about',style=tab_style, 
-                    selected_style=tab_selected_style,
-                    ),
-            dcc.Tab(label='💻 Account', value='account',style=tab_style, 
-                    selected_style=tab_selected_style,),
-        ],
-            style=tabs_styles),
-            
-            html.Div(id='tabs-content', style={}),
-            ]),
+        product_page,
+        
+        html.Br(),
+        
+        about_page
   
     ],
     style={})
     
     ],
     )
-
-# Tab callbacks
-@app.callback(Output('tabs-content', 'children'),
-              Input('tabs', 'value'))
-def render_content(tab):
-    if tab == 'about':
-        return about_page
-    elif tab == 'search':
-        return product_page
-    elif tab == 'account':
-        return account_page
 
 # Search callbacks
 @app.callback(Output('products-content', 'children'),
@@ -324,17 +273,17 @@ def products_content(search):
                 fairy_div, fuchsia_div,
                 ]
     else:
-        if search in "bear hooded costume":
+        if search.lower() in "bear hooded costume":
             div_list.append(bear_div)
-        if search in "dragon hooded costume":
+        if search.lower() in "dragon hooded costume":
             div_list.append(dragon_div)
-        if search in "elephant hooded costume":
+        if search.lower() in "elephant hooded costume":
             div_list.append(elephant_div)
-        if search in "zebra hooded costume":
+        if search.lower() in "zebra hooded costume":
             div_list.append(zebra_div)
-        if search in "forest fairy costume":
+        if search.lower() in "forest fairy costume":
             div_list.append(fairy_div)
-        if search in "fuchsia floral dress":
+        if search.lower() in "fuchsia floral dress":
             div_list.append(fuchsia_div)
     
     if div_list == []:
