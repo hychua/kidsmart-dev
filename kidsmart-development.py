@@ -75,7 +75,7 @@ def product_div(image, name, price, view, link):
         
         html.Div([
             dcc.Link('View Item', href=link, style={'display':'inline-block',
-                                               'fontSize':36, 'margin':20}),
+                                               'fontSize':32, 'margin':20}),
             
                 html.Button(
                             id=view,
