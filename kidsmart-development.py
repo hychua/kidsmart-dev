@@ -46,13 +46,23 @@ zebra_icon = 'zebra.jpg'
 zebra_encoded = base64.b64encode(open(zebra_icon, 'rb').read())
 tinker_icon = 'tinker.jpg' 
 tinker_encoded = base64.b64encode(open(tinker_icon, 'rb').read())
-fuchsia_icon = 'fuchsiadress.jpg' 
-fuchsia_encoded = base64.b64encode(open(fuchsia_icon, 'rb').read())
 army_icon = 'army.png' 
 army_encoded = base64.b64encode(open(army_icon, 'rb').read())
 
+def generate_table(dataframe, max_rows=10):
+    return html.Table(
+        # Header
+        [html.Tr([html.Th(col, style={'border':'1px black solid','padding':5}) for col in dataframe.columns]) ] +
+        # Body
+        [html.Tr([
+            html.Td(dataframe.iloc[i][col], style={'border':'1px black solid','padding':5}) for col in dataframe.columns
+        ]) for i in range(min(len(dataframe), max_rows))
+            ], 
+        style={'font-size':28, 'border-collapse':'collapse', 'font-family':'calibri'}
+)
+
 # create a product div
-def product_div(image, name, price, view, link):
+def product_div(image, name, price, view, link, age):
     return html.Div([
         html.Div([
             
@@ -67,8 +77,7 @@ def product_div(image, name, price, view, link):
             
             html.H1(name, style={'font-family':'calibri'}),
             html.H1(price ,style={'color':'green','font-family':'calibri'}),
-            html.H1("Sizes Available: Ⓢ / Ⓜ / Ⓛ", style={'font-family':'calibri'}),
-            html.H1("Recommended Age: 1-8 yrs", style={'font-family':'calibri'})
+            html.H1("Recommended Age: " + age, style={'font-family':'calibri'})
             
         ],
                                  style={'display':'inline-block','margin-left':25,
@@ -109,20 +118,20 @@ def product_div(image, name, price, view, link):
                  'backgroundColor':'rgb(255,255,255)'})
 
 # create a product div
-def product_page(image, name, price):
+def product_page(image, name, price, slides, nxt, description, size, dim, age):
+    # sizes data
+    data_size = {'Size' : size, 'Dimensions' : dim, 'Age' : age}
+    df_size = pd.DataFrame(data_size)
     return html.Div([
         html.Div([
-            
-        html.Img(src='data:image/png;base64,{}'.format(image.decode()),
-                                 style={'width':500, 'display':'none'}),
-        
+
         html.Div([
 
             html.Section(id="slideshow", children=[
                 html.Div(id="slideshow-container", children=[
-                    html.Div(id="image"),
+                    html.Div(id=slides),
                     html.Button(
-                            id='next-button',
+                            id=nxt,
                             n_clicks=0,
                             children='Next Image',
                             style={'fontSize':32,
@@ -144,9 +153,15 @@ def product_page(image, name, price):
             
             html.H1(name, style={'font-family':'calibri'}),
             html.H1(price ,style={'color':'green','font-family':'calibri'}),
-            html.H1("Sizes Available: Ⓢ / Ⓜ / Ⓛ", style={'font-family':'calibri'}),
-            html.H1("Recommended Age: 1-8 yrs", style={'font-family':'calibri'}),
-            html.P("Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis vulputate enim nulla aliquet. Elit sed vulputate mi sit amet mauris. Eget mauris pharetra et ultrices neque ornare aenean euismod. Dui nunc mattis enim ut tellus elementum sagittis vitae et. Euismod elementum nisi quis eleifend quam adipiscing vitae proin. Accumsan in nisl nisi scelerisque. Scelerisque mauris pellentesque pulvinar pellentesque. Risus commodo viverra maecenas accumsan. Dui id ornare arcu odio. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare. Tristique magna sit amet purus. Lectus sit amet est placerat in egestas erat imperdiet sed.")
+            
+            
+            html.Div([
+                html.H1("Sizes Available:", style={'font-family':'calibri'}),
+                generate_table(df_size),
+                ], style={} ),
+           
+
+            html.P(description)
             
         ],
                                  ),
@@ -172,23 +187,34 @@ def product_page(image, name, price):
         
         ],
         style = {'border':'1px black solid','margin':3,'borderRadius':5,
-                 'backgroundColor':'rgb(255,255,255)','text-align':'center'})
+                 'backgroundColor':'rgb(255,255,255)','padding':25})
 
-bear_div = product_div(bear_encoded,"Bear Hooded Costume", "₱380.00","bear-button","/bear")
-dragon_div = product_div(dragon_encoded,"Dragon Hooded Costume", "₱380.00","dragon-button","/dragon")
-elephant_div = product_div(elephant_encoded,"Elephant Hooded Costume", "₱380.00","elephant-button","/elephant")
-zebra_div = product_div(zebra_encoded,"Zebra Hooded Costume", "₱380.00","zebra-button","/zebra")
-fairy_div = product_div(tinker_encoded,"Forest Fairy Costume", "₱540.00","fairy-button","/fairy")
-fuchsia_div = product_div(fuchsia_encoded,"Fuchsia Floral Dress", "₱540.00","fuchsia-button","/fuchsia")
-army_div = product_div(army_encoded,"Army Costume", "₱540.00","army-button","/army")
+bear_div = product_div(bear_encoded,"Bear Hooded Costume", "₱380.00","bear-button","/bear","2-8 yrs")
+dragon_div = product_div(dragon_encoded,"Dragon Hooded Costume", "₱380.00","dragon-button","/dragon","2-8 yrs")
+elephant_div = product_div(elephant_encoded,"Elephant Hooded Costume", "₱380.00","elephant-button","/elephant","2-8 yrs")
+zebra_div = product_div(zebra_encoded,"Zebra Hooded Costume", "₱380.00","zebra-button","/zebra","2-8 yrs")
+fairy_div = product_div(tinker_encoded,"Forest Fairy Costume", "₱540.00","fairy-button","/fairy","2-7 yrs")
+army_div = product_div(army_encoded,"Army Costume", "₱540.00","army-button","/army","1-8 yrs")
 
-bear_page = product_page(bear_encoded,"Bear Hooded Costume", "₱380.00")
-dragon_page = product_page(dragon_encoded,"Dragon Hooded Costume", "₱380.00")
-elephant_page = product_page(elephant_encoded,"Elephant Hooded Costume", "₱380.00")
-zebra_page = product_page(zebra_encoded,"Zebra Hooded Costume", "₱380.00")
-fairy_page = product_page(tinker_encoded,"Forest Fairy Costume", "₱540.00")
-fuchsia_page = product_page(fuchsia_encoded,"Fuchsia Floral Dress", "₱540.00")
-army_page = product_page(army_encoded,"Army Costume", "₱540.00")
+bear_page = product_page(bear_encoded,"Bear Hooded Costume", "₱380.00","bear-image","bear-next",
+                         "Brown bear costume for kids onesie/romper type with hood of animal for use in parties or pajama sleepwear. when washing, do not use bleach. Sizes may seem large for the age because the onesie type clothing is meant to be loose and breathable when worn. Other animal costumes are also available. Please check out our shop for the other costumes!",
+                         ['S', 'M', 'L'],['14"x30"','15"x35"','16"x40"'],['2-4 yrs', '4-6 yrs', '6-8 yrs'])
+dragon_page = product_page(dragon_encoded,"Dragon Hooded Costume", "₱380.00","dragon-image","dragon-next",
+                         "Dragon costume for kids onesie/romper type with hood of animal for use in parties or pajama sleepwear. when washing, do not use bleach. Sizes may seem large for the age because the onesie type clothing is meant to be loose and breathable when worn. Other animal costumes are also available. Please check out our shop for the other costumes!",
+                         ['S', 'M', 'L'],['14"x30"','15"x35"','16"x40"'],['2-4 yrs', '4-6 yrs', '6-8 yrs'])
+elephant_page = product_page(elephant_encoded,"Elephant Hooded Costume", "₱380.00","elephant-image","elephant-next",
+                         "Elephant costume for kids onesie/romper type with hood of animal for use in parties or pajama sleepwear. when washing, do not use bleach. Sizes may seem large for the age because the onesie type clothing is meant to be loose and breathable when worn. Other animal costumes are also available. Please check out our shop for the other costumes!",
+                         ['S', 'M', 'L'],['14"x30"','15"x35"','16"x40"'],['2-4 yrs', '4-6 yrs', '6-8 yrs'])
+zebra_page = product_page(zebra_encoded,"Zebra Hooded Costume", "₱380.00","zebra-image","zebra-next",
+                         "Zebra costume for kids onesie/romper type with hood of animal for use in parties or pajama sleepwear. when washing, do not use bleach. Sizes may seem large for the age because the onesie type clothing is meant to be loose and breathable when worn. Other animal costumes are also available. Please check out our shop for the other costumes!",
+                         ['S', 'M', 'L'],['14"x30"','15"x35"','16"x40"'],['2-4 yrs', '4-6 yrs', '6-8 yrs'])
+fairy_page = product_page(tinker_encoded,"Forest Fairy Costume", "₱540.00","fairy-image","fairy-next",
+                          "Tinkerbell or forest fairy costume for kids. Comes with: Detachable wings (via velcro)",
+                          ['5','7','9','11','13'],['12"x19"','13"x21"','14"x23"','15"x25"','16"x27"'],['2-3 yrs','3-4 yrs','4-5 yrs','5-6 yrs','6-7 yrs'])
+army_page = product_page(army_encoded,"Army Costume", "₱560.00","army-image","army-next",
+                         "Army military fatigues costume set for kids with cap, polo, and shorts.",
+                         ['0','2','4','6','8','10','12'],['24"x34"','25"x35"','26"x37"','27"x39"','28"x41"','29"x43"','30"x45"'],
+                         ['1-2 yrs','2-3 yrs','3-4 yrs','4-5 yrs','5-6 yrs','6-7 yrs','7-8 yrs'])
 
 header_page = html.Div([
     
@@ -298,7 +324,7 @@ def products_content(search):
     if search == None:
         return [html.Br(),
                 bear_div, dragon_div, elephant_div, zebra_div,
-                fairy_div, fuchsia_div, army_div
+                fairy_div, army_div
                 ]
     else:
         if search.lower() in "bear hooded costume":
@@ -311,8 +337,6 @@ def products_content(search):
             div_list.append(zebra_div)
         if search.lower() in "forest fairy costume":
             div_list.append(fairy_div)
-        if search.lower() in "fuchsia floral dress":
-            div_list.append(fuchsia_div)
         if search.lower() in "army costume":
             div_list.append(army_div)
     
@@ -341,6 +365,49 @@ def display_image(n):
         img = "None"
     return img
 
+# carousel callbacks
+def define_carousel(output, nxt, image, image1, image2, image3, image4):
+    @app.callback(Output(output, 'children'),
+                  [Input(nxt, 'n_clicks')])
+    def display_carousel(n):
+        # army pics
+        icon = image
+        encoded = base64.b64encode(open(icon, 'rb').read())
+        icon1 = image1
+        encoded1 = base64.b64encode(open(icon1, 'rb').read())
+        icon2 = image2
+        encoded2 = base64.b64encode(open(icon2, 'rb').read())
+        icon3 = image3
+        encoded3 = base64.b64encode(open(icon3, 'rb').read())
+        icon4 = image4
+        encoded4 = base64.b64encode(open(icon4, 'rb').read())
+        if n % 5 == 0:
+            img = html.Img(src='data:image/png;base64,{}'.format(encoded.decode()),
+                                     style={'width':500})
+        elif n % 5 == 1:
+            img = html.Img(src='data:image/png;base64,{}'.format(encoded1.decode()),
+                                     style={'width':500})
+        elif n % 5 == 2:
+            img = html.Img(src='data:image/png;base64,{}'.format(encoded2.decode()),
+                                     style={'width':500})
+        elif n % 5 == 3:
+            img = html.Img(src='data:image/png;base64,{}'.format(encoded3.decode()),
+                                     style={'width':500})
+        elif n % 5 == 4:
+            img = html.Img(src='data:image/png;base64,{}'.format(encoded4.decode()),
+                                     style={'width':500})
+        else:
+            img = "None"
+        return img
+
+define_carousel('bear-image', 'bear-next', 'bear.jpg', 'bear1.jpg', 'bear2.jpg', 'bear3.jpg', 'bear4.jpg')
+define_carousel('dragon-image', 'dragon-next', 'dragon.jpg', 'dragon1.jpg', 'dragon2.jpg', 'dragon3.jpg', 'dragon4.jpg')
+define_carousel('elephant-image', 'elephant-next', 'elephant.jpg', 'elephant1.jpg', 'elephant2.jpg', 'elephant3.jpg', 'elephant4.jpg')
+define_carousel('zebra-image', 'zebra-next', 'zebra.jpg', 'zebra1.jpg', 'zebra2.jpg', 'zebra3.jpg', 'zebra4.jpg')
+define_carousel('fairy-image', 'fairy-next', 'tinker.jpg', 'tinker1.jpg', 'tinker2.jpg',
+                'tinker3.jpg', 'tinker4.jpg')
+define_carousel('army-image', 'army-next', 'army.png', 'army1.png', 'army2.png', 'army3.png', 'army4.png')
+
 # Update the index
 @app.callback(dash.dependencies.Output('page-content', 'children'),
               [dash.dependencies.Input('url', 'pathname')])
@@ -355,8 +422,6 @@ def display_page(pathname):
         return zebra_page
     elif pathname == '/fairy':
         return fairy_page
-    elif pathname == '/fuchsia':
-        return fuchsia_page
     elif pathname == '/army':
         return army_page
     else:
