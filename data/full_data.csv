@@ -1,0 +1,1000 @@
+Order_ID,Order Date,Category,Product Name,Product_ID,Sale Price,Retail Price,Size,Buyer Region,Region_ID,Order Year,City Name,Quantity
+1,12/4/2020,COST-M,Gekko Costume Set PJ Masks,1,385,220,7,Metro Manila,5,2020,Metro Manila,1
+2,12/4/2020,COST-M,Superman Costume for Kids (Satin),2,425,220,3,Metro Manila,5,2020,Metro Manila,1
+3,12/5/2020,MASK,Transformers Bumblebee Costume for Kids,3,460,220,11,North Luzon,5,2020,Pampanga,1
+4,12/5/2020,TOY,"Power Rangers Costume for Kids (Colors: Red, Blue, Yellow)",4,960,220,YS,North Luzon,18,2020,Pampanga,1
+5,12/5/2020,COST-W,"Power Rangers Costume for Kids (Colors: Red, Blue, Yellow)",4,960,220,YXL,North Luzon,40,2020,Pampanga,1
+6,12/5/2020,DRSS-W,"Power Rangers Costume for Kids (Colors: Red, Blue, Yellow)",4,960,220,RS,North Luzon,23,2020,Pampanga,1
+7,12/5/2020,COST-M,"Power Rangers Costume for Kids (Colors: Red, Blue, Yellow)",4,960,220,BXL,North Luzon,5,2020,Pampanga,1
+8,12/6/2020,TOY,Iron Man Costume for Kids with Mask,5,383,220,7,Metro Manila,33,2020,Metro Manila,1
+9,12/6/2020,COST-M,Red Cars Costume for Kids,6,369,220,5,South Luzon,17,2020,Batangas,1
+10,12/6/2020,COST-M,Batman Costume for Kids (Satin),7,385,220,7,Metro Manila,10,2020,Metro Manila,1
+11,12/7/2020,COST-M,Red Cars Costume for Kids,6,435,220,9,South Luzon,31,2020,Batangas,1
+12,12/7/2020,COST-M,Red Cars Costume for Kids,6,440,220,3,South Luzon,44,2020,Quezon,1
+13,12/7/2020,TOY,Superman Costume for Kids (Satin),2,460,220,5,North Luzon,10,2020,Zambales,1
+14,12/7/2020,COST-M,Captain America Costume for Kids (Satin),8,460,220,9,North Luzon,23,2020,Benguet,1
+15,12/8/2020,COST-M,Batman Costume for Kids (Satin),7,460,220,13,North Luzon,33,2020,Isabela,1
+16,12/8/2020,MASK,Muscle Batman Costume for Kids,9,555,220,,Metro Manila,5,2020,Metro Manila,1
+17,12/8/2020,DRSS-W,Army Military Costume Set for Kids with Cap,10,593,220,,Visayas,34,2020,Iloilo,1
+18,12/8/2020,DRSS-W,Batman Costume for Kids (Satin),7,455,220,9,North Luzon,31,2020,Pampanga,1
+19,12/8/2020,COST-M,Iron Man Costume for Kids with Mask,5,425,220,7,Visayas,33,2020,Cebu,1
+20,12/8/2020,COST-W,Red and White Dress for Babies (Ages 4-22 months),11,368,220,2,Visayas,23,2020,Cebu,1
+21,12/9/2020,COST-W,Transformers Bumblebee Costume for Kids,3,780,220,9,North Luzon,10,2020,Benguet,1
+22,12/9/2020,TOY,Transformers Bumblebee Costume for Kids,3,780,220,11,North Luzon,38,2020,Benguet,1
+23,12/9/2020,MASK,Iron Man Costume for Kids with Mask,5,400,220,15,South Luzon,5,2020,Quezon,1
+24,12/9/2020,COST-W,Thor Costume for Kids with Mask and Cape,12,403,220,13,Metro Manila,1,2020,Metro Manila,1
+25,12/9/2020,COST-M,Captain America Costume for Kids (Satin),8,343,220,13,Metro Manila,18,2020,Metro Manila,1
+26,12/9/2020,COST-M,Thor Costume for Kids with Mask and Cape,12,325,220,5,North Luzon,33,2020,Pangasinan,1
+27,12/9/2020,TOY,Muscle Captain America Costume for Kids,13,595,220,5,South Luzon,33,2020,Cavite,1
+28,12/10/2020,COST-M,Superman Overall for Babies (Ages 6-24 months),14,367,220,M,North Luzon,18,2020,Pampanga,1
+29,12/10/2020,DRSS-W,Ninja Turtle Costume for Kids with Mask and Shell,15,310,220,3,South Luzon,5,2020,Rizal,1
+30,12/10/2020,COST-W,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,433,220,11,Metro Manila,38,2020,Metro Manila,1
+31,12/10/2020,COST-W,Muscle Superman Costume for Kids,17,553,220,9,Metro Manila,8,2020,Metro Manila,1
+32,12/11/2020,MASK,Superman Costume for Kids (Satin),2,405,220,3,North Luzon,10,2020,Pangasinan,1
+33,12/11/2020,COST-M,Thor Costume for Kids with Mask and Cape,12,405,220,15,Metro Manila,47,2020,Metro Manila,1
+34,12/11/2020,COST-W,Thor Costume for Kids with Mask and Cape,12,405,220,5,Metro Manila,50,2020,Metro Manila,1
+35,12/11/2020,TOY,Ninja Turtle Costume for Kids with Mask and Shell,15,380,220,15,South Luzon,44,2020,Cavite,1
+36,12/11/2020,TOY,Batman Costume for Kids (Satin),7,400,220,5,North Luzon,31,2020,Isabela,1
+37,12/11/2020,COST-W,"Power Rangers Costume for Kids (Colors: Red, Blue, Yellow)",4,865,220,BL,Metro Manila,50,2020,Metro Manila,1
+38,12/11/2020,DRSS-W,Ninja Turtle Costume for Kids with Mask and Shell,15,865,220,7,Metro Manila,6,2020,Metro Manila,1
+39,12/11/2020,TOY,Ninja Turtle Costume for Kids with Mask and Shell,15,383,220,9,Metro Manila,18,2020,Metro Manila,1
+40,12/11/2020,MASK,Muscle Superman Costume for Kids,17,575,220,7,South Luzon,31,2020,Camarines Sur,1
+41,12/12/2020,COST-W,Muscle Superman Costume for Kids,17,432,220,5,North Luzon,5,2020,Pangasinan,1
+42,12/12/2020,BAG,Batman Costume for Kids (Satin),7,433,220,3,Visayas,33,2020,Aklan,1
+43,12/12/2020,MASK,Superman Costume for Kids (Satin),2,493,220,7,Visayas,10,2020,Negros Oriental,1
+44,12/12/2020,TOY,Muscle Iron Man Costume for Kids with Mask,18,575,220,13,South Luzon,22,2020,Batangas,1
+45,12/12/2020,TOY,Red Cars Costume for Kids,6,405,220,13,Visayas,5,2020,Iloilo,1
+46,12/12/2020,TOY,Iron Man Costume for Kids with Mask,5,380,220,15,South Luzon,39,2020,Rizal,1
+47,12/12/2020,TOY,Thor Costume for Kids with Mask and Cape,12,465,220,5,Visayas,22,2020,Leyte,1
+48,12/12/2020,COST-M,Red Cars Costume for Kids,6,435,220,3,South Luzon,38,2020,Oriental Mindoro,1
+49,12/12/2020,COST-M,Muscle Iron Man Costume for Kids with Mask,18,550,220,5,South Luzon,6,2020,Rizal,1
+50,12/12/2020,COST-W,Superman Costume for Kids (Satin),2,740,220,3,Visayas,39,2020,Cebu,1
+51,12/12/2020,COST-M,Darna Costume for Kids,19,740,220,5,Visayas,1,2020,Cebu,1
+52,12/12/2020,TOY,Iron Man Costume for Kids with Mask,5,425,220,5,Visayas,33,2020,Cebu,1
+53,12/12/2020,COST-M,Red Cars Costume for Kids,6,405,220,5,Metro Manila,33,2020,Metro Manila,1
+54,12/12/2020,TOY,Muscle Iron Man Costume for Kids with Mask,18,575,220,9,South Luzon,44,2020,Albay,1
+55,12/13/2020,COST-W,Army Military Costume Set for Kids with Cap,10,620,220,L4,South Luzon,5,2020,Batangas,1
+56,12/13/2020,COST-M,Army Military Costume Set for Kids with Cap,10,615,220,,North Luzon,44,2020,Zambales,1
+57,12/13/2020,COST-M,Muscle Iron Man Costume for Kids with Mask,18,555,220,9,Metro Manila,44,2020,Metro Manila,1
+58,12/13/2020,TOY,Red Cars Costume for Kids,6,440,220,9,South Luzon,31,2020,Batangas,1
+59,12/13/2020,MASK,Red Cars Costume for Kids,6,385,220,5,North Luzon,38,2020,Isabela,1
+60,12/13/2020,COST-M,Muscle Superman Costume for Kids,17,595,220,13,Metro Manila,47,2020,Metro Manila,1
+61,12/13/2020,COST-M,Muscle Iron Man Costume for Kids with Mask,18,630,220,11,North Luzon,31,2020,Nueva Ecija,1
+62,12/13/2020,TOY,Pink or Red Gingham Checkered Dress for Girls (Ages 6-11),20,475,220,R11,South Luzon,5,2020,Cavite,1
+63,12/14/2020,DRSS-W,Catboy Costume Set PJ Masks,21,425,220,7,Metro Manila,19,2020,Metro Manila,1
+64,12/14/2020,COST-M,Iron Man Costume for Kids with Mask,5,394,220,13,Mindanao,22,2020,Basilan,1
+65,12/14/2020,COST-M,Muscle Iron Man Costume for Kids with Mask,18,595,220,9,Metro Manila,1,2020,Metro Manila,1
+66,12/14/2020,COST-M,Iron Man Costume for Kids with Mask,5,405,220,11,North Luzon,48,2020,Benguet,1
+67,12/14/2020,COST-M,Muscle Iron Man Costume for Kids with Mask,18,575,220,11,South Luzon,11,2020,Albay,1
+68,12/14/2020,TOY,Thor Costume for Kids with Mask and Cape,12,445,220,11,Visayas,36,2020,Cebu,1
+69,12/15/2020,COST-M,Iron Man Costume for Kids with Mask,5,425,220,9,Mindanao,5,2020,Surigao Del Norte,1
+70,12/15/2020,BABY,Cream Baptismal Set for Boy with Shoes and Cap,22,334,220,M,Mindanao,6,2020,Basilan,1
+71,12/15/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,485,220,13,Visayas,5,2020,Cebu,1
+72,12/15/2020,COST-W,Muscle Iron Man Costume for Kids with Mask,18,0,220,11,North Luzon,33,2020,Nueva Vizcaya,1
+73,12/15/2020,COST-M,Superman Jacket for Boys Ages 4-10 (jacket can turn into a bag),23,264,220,9,South Luzon,31,2020,Cavite,1
+74,12/15/2020,COST-M,Superman Costume for Kids (Satin),2,385,220,5,Metro Manila,5,2020,Metro Manila,1
+75,12/15/2020,COST-M,Iron Man Costume for Kids with Mask,5,485,220,7,Mindanao,33,2020,Davao Del Norte,1
+76,12/15/2020,TOY,[ Adult ] Batman Costume with Cape,24,717,220,L,North Luzon,5,2020,Pangasinan,1
+77,12/15/2020,TOY,Captain America Overall for Baby,25,387,220,M,Mindanao,44,2020,Lanao Del Norte,1
+78,12/15/2020,TOY,Muscle Captain America Costume for Kids,13,417,220,11,Metro Manila,33,2020,Metro Manila,1
+79,12/15/2020,COST-W,Superman Costume for Kids (Satin),2,613,220,9,Metro Manila,44,2020,Metro Manila,1
+80,12/15/2020,COST-M,Iron Man Costume for Kids with Mask,5,613,220,11,Metro Manila,38,2020,Metro Manila,1
+81,12/15/2020,COST-W,Santa Girl Costume for Kids,26,413,220,,North Luzon,50,2020,Bulacan,1
+82,12/15/2020,TOY,Red Cars Costume for Kids,6,435,220,3,North Luzon,10,2020,Benguet,1
+83,12/15/2020,COST-M,Iron Man Costume for Kids with Mask,5,380,220,15,North Luzon,44,2020,Cagayan,1
+84,12/15/2020,COST-M,Batman Costume for Kids (Satin),7,425,220,9,Mindanao,34,2020,Davao Del Norte,1
+85,12/15/2020,COST-W,Ninja Turtle Costume for Kids with Mask and Shell,15,383,220,7,Metro Manila,31,2020,Metro Manila,1
+86,12/15/2020,COST-W,Red Cars Costume for Kids,6,403,220,3,South Luzon,5,2020,Rizal,1
+87,12/16/2020,COST-W,"Power Rangers Costume for Kids (Colors: Red, Blue, Yellow)",4,525,220,YXL,Metro Manila,1,2020,Metro Manila,1
+88,12/16/2020,TOY,Thor Costume for Kids with Mask and Cape,12,425,220,7,South Luzon,28,2020,Rizal,1
+89,12/16/2020,TOY,Red Cars Costume for Kids,6,474,220,5,Mindanao,44,2020,Zamboanga Del Sur,1
+90,12/16/2020,COST-M,Muscle Superman Costume for Kids,17,630,220,5,South Luzon,37,2020,Camarines Sur,1
+91,12/16/2020,COST-M,Red Cars Costume for Kids,6,323,220,5,Visayas,44,2020,Iloilo,1
+92,12/16/2020,COST-M,Darna Costume for Kids,19,360,220,3,South Luzon,33,2020,Laguna,1
+93,12/16/2020,TOY,Spider-man Costume for Kids (Satin),27,380,220,9,South Luzon,5,2020,Batangas,1
+94,12/16/2020,COST,Santa Girl Costume for Kids,26,370,220,S,North Luzon,11,2020,Bulacan,1
+95,12/16/2020,DRSS-W,Thor Costume for Kids with Mask and Cape,12,405,220,9,Metro Manila,36,2020,Metro Manila,1
+96,12/16/2020,COST-M,Red Cars Costume for Kids,6,405,220,5,Mindanao,10,2020,Davao Del Sur,1
+97,12/16/2020,MASK,Army Military Costume Set for Kids with Cap,10,560,220,,North Luzon,33,2020,Ilocos Norte,1
+98,12/17/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,403,220,11,South Luzon,11,2020,Rizal,1
+99,12/17/2020,COST-M,Batman Costume for Kids (Satin),7,405,220,15,South Luzon,5,2020,Cavite,1
+100,12/17/2020,TOY,Red Cars Costume for Kids,6,473,220,9,Visayas,10,2020,Leyte,1
+101,12/17/2020,COST-M,Muscle Captain America Costume for Kids,13,555,220,13,Metro Manila,7,2020,Metro Manila,1
+102,12/17/2020,COST-M,"Power Rangers Costume for Kids (Colors: Red, Blue, Yellow)",4,505,220,YL,South Luzon,33,2020,Quezon,1
+103,12/17/2020,TOY,Red Cars Costume for Kids,6,318,220,5,South Luzon,39,2020,Rizal,1
+104,12/18/2020,COST-M,Darna Costume for Kids,19,380,220,7,North Luzon,5,2020,Isabela,1
+105,12/18/2020,COST-M,Superman Costume for Kids (Satin),2,460,220,3,North Luzon,38,2020,Tarlac,1
+106,12/18/2020,COST-M,Spongebob Backpack for Kids,28,405,220,BAG,Metro Manila,22,2020,Metro Manila,1
+107,12/18/2020,COST-M,Batman Costume for Kids (Satin),7,460,220,11,South Luzon,36,2020,Rizal,1
+108,12/18/2020,DRSS-W,Thor Costume for Kids with Mask and Cape,12,325,220,3,North Luzon,44,2020,Bulacan,1
+109,12/18/2020,TOY,Ninja Turtle Costume for Kids with Mask and Shell,15,285,220,11,South Luzon,5,2020,Cavite,1
+110,12/18/2020,DRSS-W,Muscle Iron Man Costume for Kids with Mask,18,575,220,7,South Luzon,50,2020,Cavite,1
+111,12/18/2020,COST-M,Superman Costume for Kids (Satin),2,405,220,7,North Luzon,5,2020,Bulacan,1
+112,12/18/2020,COST-M,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,435,220,13,Metro Manila,26,2020,Metro Manila,1
+113,12/19/2020,TOY,Muscle Superman Costume for Kids,17,1606,200,13,Metro Manila,23,2020,Metro Manila,1
+114,12/19/2020,TOY,Muscle Captain America Costume for Kids,13,1606,220,11,Metro Manila,38,2020,Metro Manila,1
+115,12/19/2020,COST-M,Muscle Batman Costume for Kids,9,1606,220,,Metro Manila,38,2020,Metro Manila,1
+116,12/19/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,362,220,9,Metro Manila,47,2020,Metro Manila,1
+117,12/19/2020,DRSS,Ninja Turtle Costume for Kids with Mask and Shell,15,400,220,13,North Luzon,38,2020,Pangasinan,1
+118,12/19/2020,COST-M,Superman Jacket for Boys Ages 4-10 (jacket can turn into a bag),23,264,220,13,South Luzon,31,2020,Cavite,1
+119,12/19/2020,TOY,Red Cars Costume for Kids,6,380,220,7,North Luzon,36,2020,Ilocos Sur,1
+120,12/19/2020,MASK,Red Cars Costume for Kids,6,405,220,13,Visayas,31,2020,Cebu,1
+121,12/19/2020,BAG,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,470,220,7,North Luzon,22,2020,Pampanga,1
+122,12/19/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,1140,220,9,North Luzon,31,2020,Nueva Ecija,1
+123,12/19/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,1140,220,15,North Luzon,48,2020,Nueva Ecija,1
+124,12/19/2020,COST-W,Army Military Costume Set for Kids with Cap,10,1125,220,M2,Metro Manila,40,2020,Metro Manila,1
+125,12/19/2020,COST-M,Army Military Costume Set for Kids with Cap,10,1125,220,,Metro Manila,23,2020,Metro Manila,1
+126,12/20/2020,COST-M,Batman Costume for Kids (Satin),7,385,220,9,Metro Manila,33,2020,Metro Manila,1
+127,12/20/2020,COST,Thor Costume for Kids with Mask and Cape,12,445,220,7,Metro Manila,33,2020,Metro Manila,1
+128,12/20/2020,TOY,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,435,220,7,Metro Manila,22,2020,Metro Manila,1
+129,12/20/2020,TOY,Batman Costume for Kids (Satin),7,460,160,9,North Luzon,5,2020,Zambales,1
+130,12/20/2020,COST-M,Muscle Superman Costume for Kids,17,553,160,7,Metro Manila,33,2020,Metro Manila,1
+131,12/20/2020,COST-M,Muscle Iron Man Costume for Kids with Mask,18,595,160,5,Metro Manila,33,2020,Metro Manila,1
+132,12/20/2020,COST-M,Spongebob Backpack for Kids,28,410,160,BAG,Metro Manila,22,2020,Metro Manila,1
+133,12/20/2020,COST-M,Santa Girl Costume for Kids,26,390,250,XL,North Luzon,18,2020,Cagayan,1
+134,12/21/2020,DRSS-W,Ninja Turtle Costume for Kids with Mask and Shell,15,425,220,13,Visayas,33,2020,Cebu,1
+135,12/21/2020,TOY,Batman Costume for Kids (Satin),7,380,220,9,South Luzon,33,2020,Rizal,1
+136,12/21/2020,TOY,Red Cars Costume for Kids,6,413,220,9,Visayas,11,2020,Cebu,1
+137,12/21/2020,TOY,Batman Costume for Kids (Satin),7,493,220,3,Visayas,44,2020,Eastern Samar,1
+138,12/21/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,425,220,7,Visayas,22,2020,Cebu,1
+139,12/21/2020,COST-M,Muscle Superman Costume for Kids,17,575,220,11,North Luzon,47,2020,Pangasinan,1
+140,12/21/2020,TOY,Muscle Superman Costume for Kids,17,595,220,9,Metro Manila,39,2020,Metro Manila,1
+141,12/21/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,805,220,9,Mindanao,38,2020,Zamboanga Del Sur,1
+142,12/21/2020,BAG,Batman Costume for Kids (Satin),7,455,220,7,South Luzon,22,2020,Batangas,1
+143,12/21/2020,BAG,Muscle Captain America Costume for Kids,13,630,220,5,South Luzon,33,2020,Cavite,1
+144,12/21/2020,COST-M,Captain America Overall for Baby,25,362,220,L,South Luzon,50,2020,Aurora,1
+145,12/21/2020,COST-M,Iron Man Costume for Kids with Mask,5,425,220,11,North Luzon,7,2020,Bulacan,1
+146,12/21/2020,COST-M,Bat Girl Costume for Kids with Mask and Cape (Cotton),29,457,220,XL,North Luzon,5,2020,Pampanga,1
+147,12/21/2020,TOY,White Baptismal Set for Girl with Shoes and Cap,30,345,220,L,South Luzon,41,2020,Aurora,1
+148,12/21/2020,MASK,Muscle Iron Man Costume for Kids with Mask,18,630,220,7,North Luzon,20,2020,Nueva Ecija,1
+149,12/21/2020,MASK,Ninja Turtle Costume for Kids with Mask and Shell,15,330,220,11,Metro Manila,33,2020,Metro Manila,1
+150,12/21/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,366,190,9,Metro Manila,33,2020,Metro Manila,1
+151,12/21/2020,COST-M,Transformers Bumblebee Costume for Kids,3,383,190,11,Metro Manila,14,2020,Metro Manila,1
+152,12/22/2020,COST-M,Red Cars Costume for Kids,6,413,160,3,Visayas,31,2020,Cebu,1
+153,12/22/2020,COST-M,Iron Man Costume for Kids with Mask,5,405,160,11,South Luzon,6,2020,Laguna,1
+154,12/22/2020,COST-M,Thor Costume for Kids with Mask and Cape,12,445,250,9,Visayas,18,2020,Cebu,1
+155,12/22/2020,COST-M,Spongebob Backpack for Kids,28,450,130,BAG,Mindanao,33,2020,Surigao Del Norte,1
+156,12/22/2020,TOY,Iron Man Costume for Kids with Mask,5,408,130,15,Visayas,10,2020,Aklan,1
+157,12/22/2020,TOY,Muscle Iron Man Costume for Kids with Mask,18,664,200,11,Visayas,47,2020,Capiz,1
+158,12/22/2020,MASK,Batman Costume for Kids (Satin),7,455,220,3,North Luzon,33,2020,La Union,1
+159,12/22/2020,COST-M,Santa Girl Costume for Kids,26,413,220,,South Luzon,1,2020,Cavite,1
+160,12/22/2020,TOY,Superman Costume for Kids (Satin),2,494,220,3,Mindanao,5,2020,Agusan Del Norte,1
+161,12/22/2020,COST-M,Muscle Spider-man Costume for Kids,31,850,220,7,Mindanao,33,2020,Davao Del Sur,1
+162,12/22/2020,TOY,Thor Costume for Kids with Mask and Cape,12,850,220,7,Mindanao,38,2020,Davao Del Sur,1
+163,12/22/2020,MASK,Thor Costume for Kids with Mask and Cape,12,425,220,11,North Luzon,5,2020,Nueva Ecija,1
+164,12/23/2020,MASK,Catboy Costume Set PJ Masks,21,385,220,11,Metro Manila,47,2020,Metro Manila,1
+165,12/23/2020,TOY,Red Cars Costume for Kids,6,365,220,3,Mindanao,10,2020,Agusan Del Sur,1
+166,12/23/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,425,220,7,Visayas,5,2020,Leyte,1
+167,12/23/2020,COST-M,Thor Costume for Kids with Mask and Cape,12,500,220,13,South Luzon,50,2020,Laguna,1
+168,12/23/2020,TOY,Spider-man Costume for Kids (Satin),27,702,220,9,South Luzon,39,2020,Camarines Sur,1
+169,12/23/2020,COST-M,Captain America Overall for Baby,25,702,220,L,South Luzon,5,2020,Camarines Sur,1
+170,12/24/2020,COST-W,Muscle Iron Man Costume for Kids with Mask,18,630,220,7,North Luzon,10,2020,Bulacan,1
+171,12/24/2020,OVER-M,5 Digit Combination Lock,32,250,220,,North Luzon,1,2020,Tarlac,1
+172,12/24/2020,COST-M,Captain America Costume for Kids (Satin),8,780,220,5,Mindanao,14,2020,Davao Del Sur,1
+173,12/24/2020,TOY,Thor Costume for Kids with Mask and Cape,12,780,190,3,Mindanao,22,2020,Davao Del Sur,1
+174,12/24/2020,OVER-M,Ninja Turtle Costume for Kids with Mask and Shell,15,350,190,9,Metro Manila,8,2020,Metro Manila,1
+175,12/24/2020,COST-M,Catboy Costume Set PJ Masks,21,413,160,7,North Luzon,33,2020,Tarlac,1
+176,12/25/2020,COST-M,Batman Costume for Kids (Satin),7,400,160,7,North Luzon,31,2020,Pangasinan,1
+177,12/25/2020,COST-M,Batman Costume for Kids (Satin),7,455,160,13,South Luzon,47,2020,Quezon,1
+178,12/25/2020,BAG,Thor Costume for Kids with Mask and Cape,12,445,160,9,Metro Manila,31,2020,Metro Manila,1
+179,12/25/2020,COST-M,Army Military Costume Set for Kids with Cap,10,585,130,,Mindanao,31,2020,Davao Del Sur,1
+180,12/26/2020,COST-M,Batman Costume for Kids (Satin),7,493,200,3,Visayas,18,2020,Western Samar,1
+181,12/26/2020,COST-M,Santa Girl Costume for Kids,26,373,220,,Metro Manila,23,2020,Metro Manila,1
+182,12/26/2020,COST-M,Captain America Overall for Baby,25,387,220,S,Mindanao,38,2020,Davao Del Sur,1
+183,12/27/2020,COST-W,Thor Costume for Kids with Mask and Cape,12,465,220,13,Visayas,6,2020,Cebu,1
+184,12/27/2020,COST-M,Batman Costume for Kids (Satin),7,385,220,7,Metro Manila,5,2020,Metro Manila,1
+185,12/27/2020,COST-M,Red Cars Costume for Kids,6,414,220,3,Mindanao,5,2020,Sultan Kudarat,1
+186,12/27/2020,COST-M,Army Military Costume Set for Kids with Cap,10,560,220,,North Luzon,5,2020,Isabela,1
+187,12/27/2020,MASK,Muscle Iron Man Costume for Kids with Mask,18,417,220,11,Metro Manila,44,2020,Metro Manila,1
+188,12/27/2020,COST-M,Transformers Bumblebee Costume for Kids,3,383,220,9,Metro Manila,48,2020,Metro Manila,1
+189,12/28/2020,COST-M,Superman Costume for Kids (Satin),2,425,220,5,Visayas,44,2020,Iloilo,1
+190,12/28/2020,MASK,Army Military Costume Set for Kids with Cap,10,565,220,,South Luzon,41,2020,Quezon,1
+191,12/28/2020,COST-W,Army Military Costume Set for Kids with Cap,10,565,220,M2,North Luzon,29,2020,Pampanga,1
+192,12/28/2020,COST-M,Muscle Iron Man Costume for Kids with Mask,18,555,220,5,Metro Manila,5,2020,Metro Manila,1
+193,12/28/2020,COST-M,Army Military Costume Set for Kids with Cap,10,585,220,,Visayas,10,2020,Capiz,1
+194,12/29/2020,COST-M,Army Military Costume Set for Kids with Cap,10,585,220,,Metro Manila,38,2020,Metro Manila,1
+195,12/30/2020,COST-M,Thor Costume for Kids with Mask and Cape,12,780,190,15,Mindanao,33,2020,Lanao Del Norte,1
+196,12/30/2020,COST-M,Iron Man Costume for Kids with Mask,5,780,160,15,Mindanao,5,2020,Lanao Del Norte,1
+197,12/30/2020,COST-M,Batman Costume for Kids (Satin),7,760,160,9,Visayas,33,2020,Cebu,1
+198,12/30/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,760,160,9,Visayas,5,2020,Cebu,1
+199,12/30/2020,MASK,Captain America Overall for Baby,25,395,160,L,Visayas,33,2020,Cebu,1
+200,12/30/2020,TOY,Thor Costume for Kids with Mask and Cape,12,880,160,13,North Luzon,31,2020,Nueva Ecija,1
+201,12/30/2020,COST-W,Iron Man Costume for Kids with Mask,5,880,160,3,North Luzon,10,2020,Nueva Ecija,1
+202,12/30/2020,DRSS-W,Red Cars Costume for Kids,6,435,250,7,South Luzon,36,2020,Batangas,1
+203,12/30/2020,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,400,130,15,North Luzon,22,2020,Nueva Ecija,1
+204,12/31/2020,TOY,Red Cars Costume for Kids,6,363,130,7,Metro Manila,38,2020,Metro Manila,1
+205,12/31/2020,COST-M,Red Cars Costume for Kids,6,440,200,3,South Luzon,29,2020,Rizal,1
+206,1/2/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,465,220,11,Mindanao,18,2021,Davao Del Sur,1
+207,1/2/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,500,220,3,South Luzon,5,2021,Batangas,1
+208,1/2/2021,COST-M,Iron Man Costume for Kids with Mask,5,425,220,3,Metro Manila,5,2021,Metro Manila,1
+209,1/2/2021,TOY,Army Military Costume Set for Kids with Cap,10,585,220,,Mindanao,44,2021,Davao Del Sur,1
+210,1/2/2021,COST-M,Red Cars Costume for Kids,6,435,220,5,North Luzon,48,2021,Pampanga,1
+211,1/3/2021,COST-M,Muscle Spider-man Costume for Kids,31,595,220,13,South Luzon,33,2021,Rizal,1
+212,1/3/2021,MASK,Muscle Iron Man Costume for Kids with Mask,18,630,220,7,North Luzon,5,2021,Bulacan,1
+213,1/3/2021,DRSS-W,Red Cars Costume for Kids,6,414,220,11,Mindanao,36,2021,Misamis Occidental,1
+214,1/3/2021,DRSS-W,Batman Costume for Kids (Satin),7,379,220,13,Visayas,33,2021,Iloilo,1
+215,1/3/2021,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,425,220,9,Metro Manila,23,2021,Metro Manila,1
+216,1/3/2021,COST-W,Batman Swimsuit for Kids,33,440,220,4,South Luzon,36,2021,Batangas,1
+217,1/3/2021,COST-W,Superman Costume for Kids (Satin),2,365,220,9,Metro Manila,36,2021,Metro Manila,1
+218,1/3/2021,TOY,Muscle Captain America Costume for Kids,13,1290,220,13,Mindanao,47,2021,Lanao Del Norte,1
+219,1/3/2021,MASK,Darna Costume for Kids,19,1290,220,13,Mindanao,33,2021,Lanao Del Norte,1
+220,1/3/2021,COST-W,Ninja Turtle Costume for Kids with Mask and Shell,15,1290,220,15,Mindanao,6,2021,Lanao Del Norte,1
+221,1/4/2021,COST-M,Spider-man Costume for Kids (Satin),27,465,220,11,Visayas,33,2021,Cebu,1
+222,1/4/2021,COST-M,Army Military Costume Set for Kids with Cap,10,654,220,,Mindanao,22,2021,Davao Del Norte,1
+223,1/4/2021,TOY,Army Military Costume Set for Kids with Cap,10,578,190,L4,Mindanao,41,2021,Zamboanga Del Sur,1
+224,1/4/2021,COST-M,Muscle Iron Man Costume for Kids with Mask,18,595,160,,Metro Manila,5,2021,Metro Manila,1
+225,1/5/2021,DRSS-W,Owlette Costume PJ Masks for Kids,34,460,160,5,North Luzon,5,2021,Nueva Vizcaya,1
+226,1/5/2021,COST-W,Iron Man Costume for Kids with Mask,5,385,160,3,Metro Manila,33,2021,Metro Manila,1
+227,1/6/2021,COST-W,Red Cars Costume for Kids,6,659,160,5,Mindanao,14,2021,Bukidnon,1
+228,1/6/2021,MASK,Red Cars Costume for Kids,6,659,160,15,Mindanao,31,2021,Bukidnon,1
+229,1/6/2021,COST-M,Muscle Captain America Costume for Kids,13,633,250,13,North Luzon,5,2021,Tarlac,1
+230,1/6/2021,COST-W,Red Cars Costume for Kids,6,403,250,5,South Luzon,14,2021,Laguna,1
+231,1/6/2021,TOY,Thor Costume for Kids with Mask and Cape,12,445,250,3,South Luzon,31,2021,Albay,1
+232,1/7/2021,TOY,Ninja Turtle Costume for Kids with Mask and Shell,15,760,130,9,Visayas,5,2021,Cebu,1
+233,1/7/2021,COST-W,Ninja Turtle Costume for Kids with Mask and Shell,15,760,130,3,Visayas,38,2021,Cebu,1
+234,1/10/2021,DRSS-W,Darna Costume for Kids,19,473,130,7,Visayas,36,2021,Cebu,1
+235,1/10/2021,TOY,Red Cars Costume for Kids,6,290,130,3,South Luzon,33,2021,Camarines Norte,1
+236,1/10/2021,MASK,Muscle Superman Costume for Kids,17,663,200,3,Visayas,10,2021,Bohol,1
+237,1/12/2021,COST-W,Red Cars Costume for Kids,6,0,220,5,Visayas,21,2021,Leyte,1
+238,1/14/2021,BAG,Army Military Costume Set for Kids with Cap,10,645,220,,Mindanao,34,2021,Davao Del Sur,1
+239,1/16/2021,MASK,Batman Costume for Kids (Satin),7,400,220,5,South Luzon,38,2021,Camarines Norte,1
+240,1/16/2021,TOY,Cream Baptismal Set for Boy with Shoes and Cap,22,385,220,S,Visayas,38,2021,Cebu,1
+241,12/3/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,1049,220,11,North Luzon,5,2021,Zambales,1
+242,12/3/2021,TOY,Animal Costume Elephant for Kids,36,750,220,L,North Luzon,5,2021,Bulacan,1
+243,12/5/2021,TOY,Catboy Costume Set PJ Masks,21,715,220,9,South Luzon,17,2021,Laguna,1
+244,12/5/2021,COST-M,Muscle Captain America Costume for Kids,13,455,220,3,South Luzon,34,2021,Laguna,1
+245,12/6/2021,COST-M,Wonder Woman Costume for Kids with Wrist and Head Band,37,450,220,9,Metro Manila,5,2021,Metro Manila,1
+246,12/6/2021,COST-W,Iron Man Costume for Kids with Mask (Satin),35,460,220,7,North Luzon,36,2021,Cagayan,1
+247,12/6/2021,COST-M,Red Cars Costume for Kids (Satin),38,475,220,11,South Luzon,50,2021,Rizal,1
+248,12/6/2021,TOY,"Superhero Masks - Thor, Ironman, Bumblebee",39,478,220,,North Luzon,47,2021,Tarlac,1
+249,12/6/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,515,220,TOY,Metro Manila,33,2021,Metro Manila,1
+250,12/6/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,478,220,11,South Luzon,44,2021,Cavite,1
+251,12/7/2021,COST-W,Army Costume for Kids with Cap,41,565,220,,North Luzon,5,2021,Ilocos Norte,1
+252,12/7/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,675,220,TOY,Metro Manila,39,2021,Metro Manila,1
+253,12/7/2021,COST-M,Animal Costume Panda for Kids,42,745,220,M,South Luzon,33,2021,Batangas,1
+254,12/7/2021,TOY,Red Cars Costume for Kids (Satin),38,745,220,11,South Luzon,36,2021,Cavite,1
+255,12/7/2021,MASK,Iron Man Costume for Kids with Mask (Satin),35,567,220,13,Metro Manila,36,2021,Metro Manila,1
+256,12/7/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,631,220,11,Metro Manila,44,2021,Metro Manila,1
+257,12/7/2021,COST-M,Thor Toy Hammer for Kids,43,630,220,TOY,Metro Manila,33,2021,Metro Manila,1
+258,12/7/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,630,220,TOY,Metro Manila,23,2021,Metro Manila,1
+259,12/7/2021,DRSS-W,Superman Costume for Kids (Satin),2,610,220,7,South Luzon,36,2021,Cavite,1
+260,12/7/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1907,190,7,South Luzon,14,2021,Cavite,1
+261,12/8/2021,COST-M,Muscle Hulk Costume for Kids with Mask,44,840,160,3,North Luzon,10,2021,Bulacan,1
+262,12/8/2021,COST-M,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,920,160,13,North Luzon,29,2021,Bataan,1
+263,12/8/2021,COST-M,Animal Costume Rooster for Kids,45,850,160,S,North Luzon,33,2021,Bulacan,1
+264,12/8/2021,TOY,Transformers Bumblebee Costume for Kids,3,1200,160,15,North Luzon,3,2021,Isabela,1
+265,12/8/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,1100,250,11,North Luzon,5,2021,Isabela,1
+266,12/8/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1200,250,15,North Luzon,44,2021,Isabela,1
+267,12/8/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,645,130,TOY,South Luzon,33,2021,Cavite,1
+268,12/8/2021,COST-W,Red Cars Costume for Kids (Satin),38,600,130,7,North Luzon,10,2021,Bulacan,1
+269,12/8/2021,COST-M,Thor Toy Hammer for Kids,43,1139,220,TOY,South Luzon,23,2021,Batangas,1
+270,12/8/2021,COST-M,Thor Toy Hammer for Kids,43,750,220,TOY,Metro Manila,5,2021,Metro Manila,1
+271,12/8/2021,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,641,220,,Metro Manila,38,2021,Metro Manila,1
+272,12/8/2021,TOY,Ninja Turtle Costume for Kids with Mask and Shell,15,810,220,13,Visayas,21,2021,Iloilo,1
+273,12/8/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,712,220,TOY,North Luzon,44,2021,Bulacan,1
+274,12/8/2021,TOY,Ninja Turtle Costume for Kids with Mask and Shell,15,820,220,13,South Luzon,38,2021,Laguna,1
+275,12/9/2021,COST-W,Red Cars Costume for Kids (Satin),38,460,220,3,Metro Manila,44,2021,Metro Manila,1
+276,12/9/2021,COST-M,Spider-man Costume for Kids (Satin),27,459,220,13,North Luzon,39,2021,Bataan,1
+277,12/9/2021,COST-W,Wonder Woman Costume for Kids with Wrist and Head Band,37,529,220,11,North Luzon,14,2021,Bataan,1
+278,12/9/2021,TOY,Thor Costume for Kids with Mask and Cape,12,470,220,11,North Luzon,24,2021,Bataan,1
+279,12/9/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,460,220,7,North Luzon,33,2021,Bataan,1
+280,12/9/2021,COST-M,Thor Toy Hammer for Kids,43,606,220,TOY,South Luzon,33,2021,Camarines Sur,1
+281,12/9/2021,COST-W,Ninja Turtle Costume for Kids with Mask and Shell,15,624,220,11,North Luzon,7,2021,Nueva Ecija,1
+282,12/9/2021,COST-W,Thor Toy Hammer for Kids,43,691,220,TOY,Metro Manila,38,2021,Metro Manila,1
+283,12/9/2021,COST-W,Thor Costume for Kids with Mask and Cape,12,619,220,11,Metro Manila,7,2021,Metro Manila,1
+284,12/9/2021,TOY,Thor Toy Hammer for Kids,43,785,220,TOY,Metro Manila,38,2021,Metro Manila,1
+285,12/9/2021,TOY,Thor Costume for Kids with Mask and Cape,12,599,220,15,Metro Manila,33,2021,Metro Manila,1
+286,12/9/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,625,220,11,North Luzon,36,2021,Ilocos Norte,1
+287,12/9/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,620,220,TOY,Metro Manila,48,2021,Metro Manila,1
+288,12/9/2021,COST-M,[ Adult ] Batman Costume with Cape,24,2100,190,M,Metro Manila,36,2021,Metro Manila,1
+289,12/9/2021,TOY,Animal Costume Spotted Dog for Kids,46,1900,190,S,North Luzon,36,2021,Nueva Ecija,1
+290,12/10/2021,COST,Thor Toy Hammer for Kids,43,2000,190,TOY,Metro Manila,33,2021,Metro Manila,1
+291,12/10/2021,DRSS-W,Army Costume for Kids with Cap,41,890,160,,South Luzon,5,2021,Rizal,1
+292,12/10/2021,COST-M,Spider-man Costume for Kids (Satin),27,1050,160,11,South Luzon,50,2021,Rizal,1
+293,12/10/2021,MASK,Animal Costume Elephant for Kids,36,1190,160,L,South Luzon,40,2021,Laguna,1
+294,12/10/2021,COST-M,Thor Toy Hammer for Kids,43,990,250,TOY,South Luzon,29,2021,Rizal,1
+295,12/10/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,1070,250,9,South Luzon,5,2021,Rizal,1
+296,12/10/2021,TOY,Red Cars Costume for Kids (Satin),38,700,130,5,Metro Manila,36,2021,Metro Manila,1
+297,12/10/2021,COST-M,"Princess Anna Accessories (Crown, Wand, and Hair)",47,670,130,,South Luzon,7,2021,Camarines Sur,1
+298,12/11/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,985,200,15,North Luzon,36,2021,Bulacan,1
+299,12/11/2021,TOY,Thor Costume for Kids with Mask and Cape,12,2300,200,15,North Luzon,16,2021,Pangasinan,1
+300,12/11/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,910,220,13,Visayas,24,2021,Iloilo,1
+301,12/11/2021,COST-M,Thor Toy Hammer for Kids,43,680,220,TOY,Visayas,48,2021,Iloilo,1
+302,12/11/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,1002,220,15,North Luzon,5,2021,Bulacan,1
+303,12/11/2021,COST-M,Snake Animal Costume for Kids,48,810,220,M,Metro Manila,6,2021,Metro Manila,1
+304,12/11/2021,DRSS-W,Iron Man Costume for Kids with Mask (Satin),35,998,220,5,North Luzon,23,2021,Nueva Ecija,1
+305,12/11/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,817,220,15,North Luzon,5,2021,Nueva Ecija,1
+306,12/11/2021,DRSS-W,Thor Costume for Kids with Mask and Cape,12,700,220,9,Metro Manila,5,2021,Metro Manila,1
+307,12/11/2021,COST-M,Thor Toy Hammer for Kids,43,469,220,TOY,Metro Manila,47,2021,Metro Manila,1
+308,12/11/2021,COST-M,Wonder Woman Costume for Kids with Mask and Cape,49,431,220,XL,Metro Manila,37,2021,Metro Manila,1
+309,12/11/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,460,220,13,North Luzon,10,2021,Pangasinan,1
+310,12/11/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,626,220,13,South Luzon,44,2021,Laguna,1
+311,12/11/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,635,220,TOY,South Luzon,31,2021,Laguna,1
+312,12/11/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,570,220,13,South Luzon,33,2021,Quezon,1
+313,12/11/2021,DRSS,Iron Man Costume for Kids with Mask (Satin),35,599,220,9,North Luzon,5,2021,Cagayan,1
+314,12/12/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,608,220,13,South Luzon,36,2021,Rizal,1
+315,12/12/2021,TOY,Thor Costume for Kids with Mask and Cape,12,570,220,15,North Luzon,5,2021,Pampanga,1
+316,12/12/2021,MASK,Thor Toy Hammer for Kids,43,569,220,TOY,North Luzon,48,2021,Pampanga,1
+317,12/12/2021,BAG,Army Costume for Kids with Cap,41,625,220,,South Luzon,44,2021,Quezon,1
+318,12/12/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1700,190,3,South Luzon,23,2021,Laguna,1
+319,12/12/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,2110,190,11,South Luzon,10,2021,Quezon,1
+320,12/12/2021,COST-W,Thor Costume for Kids with Mask and Cape,12,2050,190,7,Metro Manila,10,2021,Metro Manila,1
+321,12/12/2021,COST-M,Thor Toy Hammer for Kids,43,870,160,TOY,Metro Manila,44,2021,Metro Manila,1
+322,12/12/2021,COST-M,Army Costume for Kids with Cap,41,1210,160,,Metro Manila,22,2021,Metro Manila,1
+323,12/12/2021,COST,"Princess Anna Accessories (Crown, Wand, and Hair)",47,999,250,,North Luzon,21,2021,Pangasinan,1
+324,12/12/2021,TOY,Thor Costume for Kids with Mask and Cape,12,620,130,9,Metro Manila,31,2021,Metro Manila,1
+325,12/12/2021,TOY,Thor Toy Hammer for Kids,43,625,130,TOY,Metro Manila,33,2021,Metro Manila,1
+326,12/12/2021,COST-M,Animal Costume Elephant for Kids,36,664,130,L,South Luzon,7,2021,Batangas,1
+327,12/12/2021,COST-M,[ Adult ] Batman Costume with Cape,24,1890,200,L,South Luzon,18,2021,Cavite,1
+328,12/12/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,790,220,13,South Luzon,5,2021,Albay,1
+329,12/12/2021,COST-M,Thor Toy Hammer for Kids,43,800,220,TOY,South Luzon,5,2021,Albay,1
+330,12/12/2021,DRSS-W,Iron Man Costume for Kids with Mask (Satin),35,975,220,9,Visayas,38,2021,Iloilo,1
+331,12/12/2021,TOY,Superman Costume for Kids (Satin),2,875,220,15,South Luzon,33,2021,Laguna,1
+332,12/13/2021,TOY,Animal Costume Giraffe for Kids,50,860,220,L,North Luzon,5,2021,Isabela,1
+333,12/13/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,470,220,15,South Luzon,31,2021,Rizal,1
+334,12/13/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,475,220,11,Metro Manila,34,2021,Metro Manila,1
+335,12/13/2021,COST-M,Thor Toy Hammer for Kids,43,474,220,TOY,Metro Manila,10,2021,Metro Manila,1
+336,12/13/2021,TOY,Thor Costume for Kids with Mask and Cape,12,567,220,15,Visayas,5,2021,Negros Occidental,1
+337,12/13/2021,COST-M,Transformers Bumblebee Costume for Kids,3,679,220,7,South Luzon,26,2021,Cavite,1
+338,12/13/2021,BAG,Toy Gun Rifle for Kids with Lights and Sounds,40,603,220,TOY,Visayas,33,2021,Iloilo,1
+339,12/13/2021,BAG,Iron Man Costume for Kids with Mask (Satin),35,620,220,9,North Luzon,7,2021,Benguet,1
+340,12/13/2021,COST-M,Sofia Crown for Kids Pink or Purple,51,635,220,,Metro Manila,33,2021,Metro Manila,1
+341,12/14/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,625,220,15,North Luzon,31,2021,Zambales,1
+342,12/14/2021,COST-M,Thor Toy Hammer for Kids,43,701,220,TOY,North Luzon,22,2021,Zambales,1
+343,12/14/2021,TOY,Thor Toy Hammer for Kids,43,618,220,TOY,South Luzon,5,2021,Catanduanes,1
+344,12/14/2021,MASK,Red Cars Costume for Kids (Satin),38,2100,190,15,North Luzon,36,2021,Bulacan,1
+345,12/14/2021,MASK,Iron Man Costume for Kids with Mask (Satin),35,1815,190,9,North Luzon,5,2021,Pangasinan,1
+346,12/14/2021,COST-M,Catboy Costume Set PJ Masks,21,2100,190,5,Visayas,5,2021,Iloilo,1
+347,12/15/2021,COST-M,Superman Costume for Kids (Satin),2,1999,190,11,South Luzon,5,2021,Camarines Sur,1
+348,12/15/2021,COST-M,Darna Costume for Kids,19,820,160,9,Metro Manila,33,2021,Metro Manila,1
+349,12/15/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,1250,160,7,North Luzon,22,2021,Pangasinan,1
+350,12/15/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1110,160,TOY,South Luzon,1,2021,Cavite,1
+351,12/15/2021,COST-M,Spongebob Backpack for Kids,28,1000,250,BAG,Metro Manila,33,2021,Metro Manila,1
+352,12/15/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,675,130,13,South Luzon,5,2021,Laguna,1
+353,12/15/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,971,220,TOY,Metro Manila,5,2021,Metro Manila,1
+354,12/15/2021,MASK,Toy Gun Rifle for Kids with Lights and Sounds,40,794,220,TOY,South Luzon,33,2021,Batangas,1
+355,12/15/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,748,220,5,Metro Manila,33,2021,Metro Manila,1
+356,12/15/2021,TOY,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,465,220,13,Metro Manila,44,2021,Metro Manila,1
+357,12/15/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,436,220,TOY,North Luzon,5,2021,Bulacan,1
+358,12/15/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,475,220,TOY,Metro Manila,22,2021,Metro Manila,1
+359,12/15/2021,MASK,Thor Costume for Kids with Mask and Cape,12,476,220,11,Metro Manila,36,2021,Metro Manila,1
+360,12/15/2021,MASK,Red Cars Costume for Kids (Satin),38,474,220,13,South Luzon,44,2021,Rizal,1
+361,12/15/2021,TOY,Thor Toy Hammer for Kids,43,454,220,TOY,South Luzon,33,2021,Oriental Mindoro,1
+362,12/15/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,635,220,11,South Luzon,33,2021,Oriental Mindoro,1
+363,12/15/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,594,220,7,North Luzon,3,2021,Pampanga,1
+364,12/15/2021,TOY,Thor Toy Hammer for Kids,43,550,220,TOY,North Luzon,5,2021,Pampanga,1
+365,12/15/2021,COST-M,Thor Toy Hammer for Kids,43,719,220,TOY,North Luzon,14,2021,Kalinga,1
+366,12/16/2021,COST-W,Muscle Batman Costume for Kids,9,634,220,,North Luzon,5,2021,Nueva Ecija,1
+367,12/16/2021,OVER-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1900,190,TOY,North Luzon,39,2021,Cagayan,1
+368,12/16/2021,COST-M,Muscle Superman Costume for Kids,17,1850,190,11,South Luzon,33,2021,Sorsogon,1
+369,12/16/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,900,160,TOY,Metro Manila,5,2021,Metro Manila,1
+370,12/16/2021,OVER-M,Thor Costume for Kids with Mask and Cape,12,1100,160,15,North Luzon,29,2021,Cagayan,1
+371,12/16/2021,COST-M,Thor Toy Hammer for Kids,43,1250,160,TOY,North Luzon,36,2021,Cagayan,1
+372,12/16/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1000,250,13,Metro Manila,14,2021,Metro Manila,1
+373,12/16/2021,COST-M,Thor Toy Hammer for Kids,43,1050,250,TOY,North Luzon,5,2021,Cagayan,1
+374,12/16/2021,BAG,Thor Costume for Kids with Mask and Cape,12,970,220,3,North Luzon,5,2021,Cagayan,1
+375,12/16/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1145,220,TOY,Metro Manila,18,2021,Metro Manila,1
+376,12/16/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,700,220,9,South Luzon,33,2021,Cavite,1
+377,12/16/2021,COST-M,Darna Costume for Kids,19,1001,220,9,North Luzon,37,2021,Nueva Vizcaya,1
+378,12/16/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,998,220,5,South Luzon,18,2021,Cavite,1
+379,12/16/2021,COST-W,Toy Gun Rifle for Kids with Lights and Sounds,40,795,220,TOY,North Luzon,38,2021,Pampanga,1
+380,12/16/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,490,220,13,North Luzon,44,2021,Isabela,1
+381,12/16/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,470,220,TOY,Mindanao,5,2021,Misamis Oriental,1
+382,12/16/2021,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,470,220,13,North Luzon,44,2021,Benguet,1
+383,12/16/2021,MASK,Toy Gun Rifle for Kids with Lights and Sounds,40,470,220,TOY,South Luzon,40,2021,Quezon,1
+384,12/16/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,610,220,TOY,South Luzon,10,2021,Batangas,1
+385,12/16/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,575,220,TOY,Visayas,33,2021,Iloilo,1
+386,12/16/2021,MASK,"Princess Anna Accessories (Crown, Wand, and Hair)",47,594,220,,North Luzon,36,2021,Ilocos Norte,1
+387,12/16/2021,COST-W,Toy Gun Rifle for Kids with Lights and Sounds,40,625,220,TOY,North Luzon,5,2021,Ilocos Norte,1
+388,12/16/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1910,190,TOY,South Luzon,11,2021,Sorsogon,1
+389,12/16/2021,COST-M,Captain America Onesie Overall for Baby (Ages 6-24 months),52,1200,160,L,Metro Manila,6,2021,Metro Manila,1
+390,12/16/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1200,160,7,South Luzon,43,2021,Batangas,1
+391,12/16/2021,COST-M,Batman Costume for Kids (Satin),7,1275,160,3,North Luzon,5,2021,Pangasinan,1
+392,12/16/2021,COST-M,Thor Toy Hammer for Kids,43,1080,250,TOY,Metro Manila,33,2021,Metro Manila,1
+393,12/16/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1007,250,TOY,Metro Manila,5,2021,Metro Manila,1
+394,12/16/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,720,130,TOY,North Luzon,5,2021,Bulacan,1
+395,12/16/2021,MASK,Toy Gun Rifle for Kids with Lights and Sounds,40,925,220,TOY,Metro Manila,37,2021,Metro Manila,1
+396,12/17/2021,TOY,"Princess Elsa Accessories (Crown, Wand, and Hair)",53,681,220,,Metro Manila,37,2021,Metro Manila,1
+397,12/17/2021,COST-W,Army Costume for Kids with Cap,41,1000,220,,Mindanao,37,2021,Zamboanga Del Sur,1
+398,12/17/2021,DRSS-W,Toy Gun Rifle for Kids with Lights and Sounds,40,802,220,TOY,North Luzon,33,2021,Bulacan,1
+399,12/17/2021,COST-M,Superman Costume for Kids (Satin),2,676,220,11,Metro Manila,38,2021,Metro Manila,1
+400,12/17/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,463,220,TOY,South Luzon,48,2021,Laguna,1
+401,12/17/2021,COST-M,Transformers Bumblebee Costume for Kids,3,460,220,11,Metro Manila,5,2021,Metro Manila,1
+402,12/17/2021,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,460,220,,South Luzon,6,2021,Laguna,1
+403,12/17/2021,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,468,220,,Metro Manila,5,2021,Metro Manila,1
+404,12/17/2021,COST-M,Thor Toy Hammer for Kids,43,515,220,TOY,South Luzon,23,2021,Camarines Sur,1
+405,12/17/2021,TOY,Thor Costume for Kids with Mask and Cape,12,470,220,3,South Luzon,49,2021,Camarines Sur,1
+406,12/17/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,624,220,9,Metro Manila,10,2021,Metro Manila,1
+407,12/18/2021,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,605,220,,Metro Manila,44,2021,Metro Manila,1
+408,12/18/2021,MASK,Darna Costume for Kids,19,602,220,15,Metro Manila,10,2021,Metro Manila,1
+409,12/18/2021,DRSS-W,Thor Costume for Kids with Mask and Cape,12,599,220,11,Metro Manila,5,2021,Metro Manila,1
+410,12/18/2021,DRSS-W,Thor Toy Hammer for Kids,43,627,220,TOY,Metro Manila,23,2021,Metro Manila,1
+411,12/18/2021,COST-M,Thor Toy Hammer for Kids,43,650,220,TOY,North Luzon,5,2021,Benguet,1
+412,12/18/2021,COST-W,Animal Costume Panda for Kids,42,600,220,S,North Luzon,3,2021,Benguet,1
+413,12/18/2021,COST-W,Toy Gun Rifle for Kids with Lights and Sounds,40,630,220,TOY,South Luzon,15,2021,Rizal,1
+414,12/18/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,1800,190,TOY,North Luzon,5,2021,Pangasinan,1
+415,12/18/2021,MASK,Thor Costume for Kids with Mask and Cape,12,1725,190,7,South Luzon,5,2021,Rizal,1
+416,12/18/2021,COST-W,Thor Toy Hammer for Kids,43,900,160,TOY,South Luzon,33,2021,Rizal,1
+417,12/18/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1250,160,TOY,South Luzon,31,2021,Rizal,1
+418,12/18/2021,COST-M,Superman Costume for Kids (Satin),2,1065,160,9,North Luzon,4,2021,Bataan,1
+419,12/18/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,1090,250,7,North Luzon,3,2021,Cagayan,1
+420,12/18/2021,COST-M,Muscle Superman Costume for Kids,17,955,250,3,South Luzon,5,2021,Camarines Sur,1
+421,12/18/2021,DRSS-W,Toy Gun Rifle for Kids with Lights and Sounds,40,690,130,TOY,North Luzon,33,2021,Pangasinan,1
+422,12/19/2021,COST-W,Thor Costume for Kids with Mask and Cape,12,871,220,13,North Luzon,29,2021,Nueva Ecija,1
+423,12/19/2021,COST-W,Thor Toy Hammer for Kids,43,988,220,TOY,North Luzon,39,2021,Nueva Ecija,1
+424,12/19/2021,MASK,Army Costume for Kids with Cap,41,761,220,,South Luzon,38,2021,Rizal,1
+425,12/19/2021,COST-M,Army Costume for Kids with Cap,41,801,220,,South Luzon,29,2021,Rizal,1
+426,12/19/2021,COST-W,Toy Gun Rifle for Kids with Lights and Sounds,40,491,220,TOY,Metro Manila,34,2021,Metro Manila,1
+427,12/19/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,465,220,TOY,North Luzon,33,2021,Nueva Ecija,1
+428,12/20/2021,TOY,Darna Costume for Kids,19,520,220,5,South Luzon,5,2021,Occidental Mindoro,1
+429,12/20/2021,COST-W,Thor Toy Hammer for Kids,43,459,220,TOY,Mindanao,41,2021,Bukidnon,1
+430,12/20/2021,DRSS-W,Thor Costume for Kids with Mask and Cape,12,540,220,3,Mindanao,29,2021,Bukidnon,1
+431,12/20/2021,TOY,Animal Costume Tiger for Kids,55,451,220,M,North Luzon,38,2021,Pampanga,1
+432,12/20/2021,MASK,Thor Costume for Kids with Mask and Cape,12,575,220,7,Metro Manila,44,2021,Metro Manila,1
+433,12/20/2021,COST-W,Thor Toy Hammer for Kids,43,611,220,TOY,Metro Manila,33,2021,Metro Manila,1
+434,12/20/2021,BAG,Toy Gun Rifle for Kids with Lights and Sounds,40,610,220,TOY,South Luzon,44,2021,Cavite,1
+435,12/20/2021,MASK,Toy Gun Rifle for Kids with Lights and Sounds,40,633,220,TOY,Metro Manila,18,2021,Metro Manila,1
+436,12/20/2021,TOY,Ninja Turtle Costume for Kids with Mask and Shell,15,640,220,13,Mindanao,33,2021,Zamboanga Del Sur,1
+437,12/20/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,1772,190,TOY,Metro Manila,5,2021,Metro Manila,1
+438,12/20/2021,TOY,Thor Costume for Kids with Mask and Cape,12,2000,190,9,South Luzon,3,2021,Camarines Sur,1
+439,12/20/2021,TOY,Thor Toy Hammer for Kids,43,948,160,TOY,South Luzon,5,2021,Camarines Sur,1
+440,12/20/2021,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,1350,160,,Visayas,33,2021,Eastern Samar,1
+441,12/20/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1060,160,TOY,Metro Manila,5,2021,Metro Manila,1
+442,12/20/2021,COST-W,Animal Costume Tiger for Kids,55,929,250,S,North Luzon,48,2021,Bulacan,1
+443,12/20/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,885,250,TOY,North Luzon,5,2021,Nueva Ecija,1
+444,12/20/2021,TOY,Muscle Thor Costume for Kids with Mask and Cape,56,715,130,7,North Luzon,5,2021,Isabela,1
+445,12/20/2021,COST-M,Thor Toy Hammer for Kids,43,690,130,TOY,North Luzon,7,2021,Isabela,1
+446,12/20/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,1150,200,TOY,South Luzon,10,2021,Occidental Mindoro,1
+447,12/20/2021,COST-W,Toy Gun Rifle for Kids with Lights and Sounds,40,760,220,TOY,Metro Manila,37,2021,Metro Manila,1
+448,12/20/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,640,220,TOY,Metro Manila,43,2021,Metro Manila,1
+449,12/20/2021,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,799,220,13,South Luzon,6,2021,Batangas,1
+450,12/21/2021,TOY,Thor Costume for Kids with Mask and Cape,12,664,220,7,North Luzon,33,2021,Isabela,1
+451,12/21/2021,MASK,Thor Toy Hammer for Kids,43,460,220,TOY,North Luzon,33,2021,Isabela,1
+452,12/21/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,464,220,TOY,South Luzon,47,2021,Laguna,1
+453,12/21/2021,COST-M,Transformers Bumblebee Costume for Kids,3,510,220,13,North Luzon,33,2021,Bataan,1
+454,12/21/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,461,220,TOY,Metro Manila,38,2021,Metro Manila,1
+455,12/21/2021,DRSS-W,Squid Game Masks for Kids,57,624,220,,North Luzon,31,2021,Pampanga,1
+456,12/21/2021,COST-M,Muscle Superman Costume for Kids,17,560,220,3,Metro Manila,44,2021,Metro Manila,1
+457,12/21/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,625,220,TOY,North Luzon,33,2021,Cagayan,1
+458,12/21/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,565,220,9,South Luzon,5,2021,Batangas,1
+459,12/21/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,629,220,7,Metro Manila,11,2021,Metro Manila,1
+460,12/21/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,590,220,TOY,Metro Manila,44,2021,Metro Manila,1
+461,12/21/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,590,220,TOY,Mindanao,5,2021,Zamboanga Sibugay,1
+462,12/21/2021,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,627,220,,Metro Manila,14,2021,Metro Manila,1
+463,12/21/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,688,220,11,Mindanao,5,2021,Zamboanga Del Sur,1
+464,12/21/2021,COST-W,Toy Gun Rifle for Kids with Lights and Sounds,40,620,220,TOY,Mindanao,33,2021,Zamboanga Del Sur,1
+465,12/21/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,570,220,7,North Luzon,5,2021,Nueva Ecija,1
+466,12/21/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1950,190,TOY,Metro Manila,44,2021,Metro Manila,1
+467,12/21/2021,COST-M,Squid Game Masks for Kids,57,1770,190,,North Luzon,5,2021,Tarlac,1
+468,12/21/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,760,160,TOY,South Luzon,5,2021,Laguna,1
+469,12/21/2021,TOY,Muscle Superman Costume for Kids,17,820,160,5,North Luzon,5,2021,Zambales,1
+470,12/21/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,1195,160,TOY,South Luzon,47,2021,Cavite,1
+471,12/21/2021,COST-W,Squid Game Guard Costume for Kids with Mask and Toy,54,940,250,,South Luzon,5,2021,Cavite,1
+472,12/21/2021,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,970,250,,South Luzon,36,2021,Cavite,1
+473,12/21/2021,COST-W,Iron Man Costume for Kids with Mask (Satin),35,1350,250,13,South Luzon,2,2021,Laguna,1
+474,12/21/2021,TOY,"Princess Anna Accessories (Crown, Wand, and Hair)",47,1050,250,,North Luzon,6,2021,Zambales,1
+475,12/21/2021,COST-M,Thor Toy Hammer for Kids,43,660,130,TOY,North Luzon,5,2021,Nueva Vizcaya,1
+476,12/21/2021,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,725,130,,North Luzon,33,2021,Nueva Vizcaya,1
+477,12/22/2021,COST-W,Toy Gun Rifle for Kids with Lights and Sounds,40,1875,200,TOY,North Luzon,5,2021,Pangasinan,1
+478,12/22/2021,COST-W,Thor Costume for Kids with Mask and Cape,12,1005,220,7,Metro Manila,21,2021,Metro Manila,1
+479,12/22/2021,COST-W,Iron Man Costume for Kids with Mask (Satin),35,775,220,15,North Luzon,18,2021,Pampanga,1
+480,12/22/2021,TOY,Thor Costume for Kids with Mask and Cape,12,620,220,15,South Luzon,31,2021,Cavite,1
+481,12/22/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,1009,220,TOY,Metro Manila,34,2021,Metro Manila,1
+482,12/22/2021,COST-M,Muscle Superman Costume for Kids,17,782,220,9,Visayas,36,2021,Iloilo,1
+483,12/22/2021,COST-M,Army Costume for Kids with Cap,41,755,220,,North Luzon,33,2021,Tarlac,1
+484,12/22/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,788,220,7,Metro Manila,47,2021,Metro Manila,1
+485,12/22/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,470,220,TOY,Metro Manila,22,2021,Metro Manila,1
+486,12/22/2021,COST,Thor Toy Hammer for Kids,43,455,220,TOY,North Luzon,22,2021,Bulacan,1
+487,12/22/2021,DRSS-W,"Superhero Masks - Thor, Ironman, Bumblebee",39,455,220,,North Luzon,44,2021,Bulacan,1
+488,12/22/2021,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,625,220,,South Luzon,5,2021,Cavite,1
+489,12/23/2021,MASK,Thor Costume for Kids with Mask and Cape,12,466,220,11,North Luzon,5,2021,Ilocos Norte,1
+490,12/23/2021,COST-M,[ Adult ] Superman Costume with Cape,58,605,220,S,North Luzon,5,2021,Benguet,1
+491,12/23/2021,COST-M,Muscle Superman Costume for Kids,17,595,220,11,North Luzon,33,2021,Bulacan,1
+492,12/23/2021,TOY,Bat Girl Costume for Kids with Mask and Cape (Cotton),29,575,220,XL,Metro Manila,33,2021,Metro Manila,1
+493,12/23/2021,COST-M,Muscle Iron Man Costume for Kids with Mask,18,570,220,5,Metro Manila,5,2021,Metro Manila,1
+494,12/23/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,646,220,7,Metro Manila,5,2021,Metro Manila,1
+495,12/23/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,590,220,TOY,Metro Manila,44,2021,Metro Manila,1
+496,12/23/2021,COST-M,Squid Game Masks for Adult,59,590,220,,Metro Manila,5,2021,Metro Manila,1
+497,12/23/2021,COST-M,Squid Game Masks for Kids,57,1850,190,,Metro Manila,38,2021,Metro Manila,1
+498,12/23/2021,COST-M,Squid Game Masks for Kids,57,1900,190,,Metro Manila,47,2021,Metro Manila,1
+499,12/23/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1950,190,13,Metro Manila,5,2021,Metro Manila,2
+500,12/23/2021,DRSS-W,Toy Gun Rifle for Kids with Lights and Sounds,40,800,160,TOY,South Luzon,5,2021,Sorsogon,2
+501,12/24/2021,TOY,Batman Costume for Kids (Satin),7,1265,160,13,Metro Manila,33,2021,Metro Manila,2
+502,12/24/2021,DRSS-W,Iron Man Costume for Kids with Mask (Satin),35,1350,160,13,Metro Manila,33,2021,Metro Manila,2
+503,12/24/2021,COST-M,Muscle Iron Man Costume for Kids with Mask,18,1050,250,5,Visayas,21,2021,Iloilo,2
+504,12/24/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,580,130,9,South Luzon,36,2021,Quezon,2
+505,12/24/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,765,220,TOY,North Luzon,10,2021,Nueva Ecija,2
+506,12/24/2021,TOY,Squid Game Masks for Kids,57,616,220,,South Luzon,10,2021,Albay,2
+507,12/24/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1045,220,TOY,Metro Manila,33,2021,Metro Manila,2
+508,12/24/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,771,220,TOY,North Luzon,33,2021,Bulacan,2
+509,12/24/2021,DRSS,Animal Costume Spotted Dog for Kids,46,775,220,M,South Luzon,47,2021,Albay,2
+510,12/24/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,639,220,5,Metro Manila,5,2021,Metro Manila,2
+511,12/24/2021,TOY,Thor Toy Hammer for Kids,43,440,220,TOY,Metro Manila,10,2021,Metro Manila,2
+512,12/24/2021,MASK,Squid Game Guard Costume for Kids with Mask and Toy,54,459,220,,North Luzon,10,2021,Ilocos Sur,2
+513,12/25/2021,BAG,Animal Costume Tiger for Kids,55,530,220,S,Mindanao,31,2021,Zamboanga Del Norte,2
+514,12/26/2021,COST-M,Thor Toy Hammer for Kids,43,440,220,TOY,Metro Manila,5,2021,Metro Manila,2
+515,12/26/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,611,220,TOY,Metro Manila,44,2021,Metro Manila,2
+516,12/26/2021,COST-W,Iron Man Costume for Kids with Mask (Satin),35,670,220,9,North Luzon,39,2021,Tarlac,2
+517,12/26/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,620,220,5,North Luzon,5,2021,Kalinga,2
+518,12/26/2021,COST-M,[ Adult ] Batman Costume with Cape,24,611,220,L,South Luzon,10,2021,Cavite,2
+519,12/26/2021,COST,Cars Brief for Boy (3-in-1 or per peice),60,590,220,3S,Metro Manila,48,2021,Metro Manila,2
+520,12/26/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,628,220,TOY,Metro Manila,39,2021,Metro Manila,2
+521,12/26/2021,TOY,Squid Game Guard Costume for Kids with Mask and Toy,54,1800,190,,South Luzon,33,2021,Laguna,2
+522,12/26/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,670,160,TOY,South Luzon,33,2021,Quezon,2
+523,12/27/2021,COST-M,Thor Toy Hammer for Kids,43,810,160,TOY,South Luzon,5,2021,Cavite,2
+524,12/27/2021,COST-M,Thor Toy Hammer for Kids,43,1105,160,TOY,North Luzon,5,2021,Bulacan,2
+525,12/27/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,900,160,TOY,Metro Manila,5,2021,Metro Manila,2
+526,12/27/2021,DRSS-W,Spider-man Onesie Overall for Baby (Ages 6-24 months),61,1108,160,XL,Mindanao,14,2021,Davao Del Sur,2
+527,12/27/2021,TOY,Thor Toy Hammer for Kids,43,715,130,TOY,Mindanao,5,2021,Davao Del Sur,2
+528,12/27/2021,TOY,Muscle Superman Costume for Kids,17,1060,220,11,South Luzon,18,2021,Quezon,2
+529,12/27/2021,TOY,Thor Costume for Kids with Mask and Cape,12,820,220,5,Metro Manila,5,2021,Metro Manila,2
+530,12/27/2021,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,775,220,,North Luzon,44,2021,Benguet,2
+531,12/27/2021,COST-M,Sofia Crown for Kids Pink or Purple,51,464,220,,Visayas,31,2021,Negros Occidental,2
+532,12/27/2021,TOY,Batman Swimsuit for Kids,33,450,220,2,North Luzon,8,2021,Pampanga,2
+533,12/27/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,469,220,9,North Luzon,44,2021,Pampanga,2
+534,12/27/2021,BAG,Thor Costume for Kids with Mask and Cape,12,630,220,15,Mindanao,10,2021,Bukidnon,2
+535,12/27/2021,BAG,Transformers Bumblebee Costume for Kids with mask,62,575,220,11,North Luzon,33,2021,Pangasinan,2
+536,12/27/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,575,220,11,Metro Manila,14,2021,Metro Manila,2
+537,12/27/2021,COST-M,Wonder Woman Costume for Kids with Wrist and Head Band,37,720,220,3,South Luzon,5,2021,Laguna,2
+538,12/27/2021,COST-M,Muscle Batman Costume for Kids,9,650,220,,South Luzon,44,2021,Laguna,2
+539,12/27/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,635,220,TOY,Metro Manila,23,2021,Metro Manila,2
+540,12/27/2021,MASK,Red Cars Costume for Kids (Satin),38,1890,190,7,North Luzon,39,2021,Cagayan,2
+541,12/27/2021,MASK,Thor Toy Hammer for Kids,43,1886,190,TOY,Metro Manila,37,2021,Metro Manila,2
+542,12/27/2021,COST-M,Thor Costume for Kids with Mask and Cape,12,800,160,15,Metro Manila,44,2021,Metro Manila,2
+543,12/27/2021,COST-M,Thor Toy Hammer for Kids,43,780,160,TOY,Metro Manila,11,2021,Metro Manila,2
+544,12/27/2021,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,1150,160,,Metro Manila,15,2021,Metro Manila,2
+545,12/28/2021,COST-M,Thor Toy Hammer for Kids,43,1149,160,TOY,South Luzon,7,2021,Cavite,2
+546,12/28/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1155,220,7,South Luzon,5,2021,Batangas,2
+547,12/28/2021,COST-M,Muscle Captain America Costume for Kids,13,725,220,13,Visayas,31,2021,Iloilo,2
+548,12/28/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,784,220,TOY,North Luzon,33,2021,Pampanga,2
+549,12/28/2021,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,941,220,TOY,South Luzon,38,2021,Cavite,2
+550,12/28/2021,MASK,Squid Game Guard Costume for Kids with Mask and Toy,54,820,220,,North Luzon,33,2021,Nueva Ecija,2
+551,12/28/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,700,220,TOY,Metro Manila,37,2021,Metro Manila,2
+552,12/28/2021,TOY,Thor Toy Hammer for Kids,43,462,220,TOY,Metro Manila,38,2021,Metro Manila,2
+553,12/28/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,472,220,TOY,Metro Manila,23,2021,Metro Manila,2
+554,12/28/2021,TOY,Batman Costume for Kids (Satin),7,535,220,5,North Luzon,44,2021,Zambales,2
+555,12/28/2021,MASK,Toy Gun Rifle for Kids with Lights and Sounds,40,648,220,TOY,South Luzon,22,2021,Cavite,2
+556,12/29/2021,MASK,Squid Game Masks for Kids,57,475,220,,South Luzon,5,2021,Batangas,2
+557,12/29/2021,TOY,Squid Game Masks for Kids,57,630,220,,South Luzon,33,2021,Batangas,2
+558,12/29/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,630,220,7,South Luzon,23,2021,Palawan,2
+559,12/29/2021,COST-M,Thor Toy Hammer for Kids,43,629,220,TOY,South Luzon,48,2021,Sorsogon,2
+560,12/29/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,590,220,5,North Luzon,31,2021,Zambales,2
+561,12/29/2021,COST-M,Thor Toy Hammer for Kids,43,725,220,TOY,Metro Manila,33,2021,Metro Manila,2
+562,12/29/2021,COST-W,Thor Costume for Kids with Mask and Cape,12,1786,190,15,Metro Manila,5,2021,Metro Manila,2
+563,12/29/2021,OVER-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,945,250,,Metro Manila,10,2021,Metro Manila,2
+564,12/29/2021,COST-M,Muscle Batman Costume for Kids,9,675,130,,North Luzon,34,2021,Cagayan,2
+565,12/29/2021,TOY,Iron Man Costume for Kids with Mask (Satin),35,1299,200,11,Mindanao,33,2021,Zamboanga Del Sur,2
+566,12/29/2021,OVER-M,Ninja Turtle Costume for Kids with Mask and Shell,15,1455,200,3,North Luzon,10,2021,Bulacan,2
+567,12/29/2021,COST-M,Captain America Pajamas for Boy (Ages 6 to 12),63,1995,200,12,Metro Manila,33,2021,Metro Manila,2
+568,12/29/2021,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,900,220,11,North Luzon,37,2021,Ilocos Sur,2
+569,12/29/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,747,220,TOY,North Luzon,37,2021,Bulacan,2
+570,12/29/2021,BAG,Squid Game Guard Costume for Kids with Mask and Toy,54,1000,220,,North Luzon,18,2021,Zambales,2
+571,12/29/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,785,220,TOY,North Luzon,39,2021,Kalinga,2
+572,12/29/2021,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,787,220,,Metro Manila,33,2021,Metro Manila,2
+573,12/29/2021,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,445,220,11,North Luzon,10,2021,Benguet,2
+574,12/30/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,455,220,TOY,South Luzon,48,2021,Rizal,2
+575,12/30/2021,COST-W,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,515,220,13,Metro Manila,5,2021,Metro Manila,2
+576,12/30/2021,COST-M,Thor Toy Hammer for Kids,43,460,220,TOY,Metro Manila,22,2021,Metro Manila,2
+577,12/30/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,810,220,TOY,North Luzon,38,2021,Cagayan,2
+578,12/30/2021,COST-M,Thor Toy Hammer for Kids,43,589,220,TOY,Metro Manila,14,2021,Metro Manila,2
+579,12/30/2021,MASK,"Superhero Masks - Thor, Ironman, Bumblebee",39,585,220,,Metro Manila,17,2021,Metro Manila,2
+580,12/30/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,600,220,TOY,South Luzon,5,2021,Sorsogon,2
+581,12/30/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,590,220,TOY,North Luzon,22,2021,Ilocos Norte,2
+582,12/30/2021,MASK,Thor Toy Hammer for Kids,43,730,220,TOY,Visayas,38,2021,Western Samar,2
+583,12/30/2021,COST-W,Thor Costume for Kids with Mask and Cape,12,834,220,15,Visayas,38,2021,Western Samar,2
+584,12/30/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,655,220,11,Mindanao,47,2021,Zamboanga Del Sur,2
+585,12/30/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1980,190,11,Metro Manila,18,2021,Metro Manila,2
+586,12/31/2021,COST-M,Spider-man Costume for Kids (Cotton),64,790,160,M,North Luzon,5,2021,Isabela,2
+587,12/31/2021,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1250,160,13,North Luzon,31,2021,Isabela,2
+588,12/31/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,699,130,TOY,North Luzon,5,2021,Bulacan,2
+589,12/31/2021,COST-M,Army Costume for Kids with Cap,41,1257,200,,South Luzon,29,2021,Laguna,2
+590,12/31/2021,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,989,220,TOY,South Luzon,5,2021,Batangas,2
+591,12/31/2021,MASK,Thor Costume for Kids with Mask and Cape,12,825,220,5,Metro Manila,10,2021,Metro Manila,2
+592,12/31/2021,TOY,Thor Toy Hammer for Kids,43,823,220,TOY,Metro Manila,29,2021,Metro Manila,2
+593,12/31/2021,COST-W,Transformers Bumblebee Costume for Kids,3,775,220,3,Visayas,33,2021,Negros Occidental,2
+594,12/31/2021,DRSS-W,Toy Gun Rifle for Kids with Lights and Sounds,40,704,220,TOY,Metro Manila,22,2021,Metro Manila,2
+595,12/31/2021,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,796,220,,North Luzon,5,2021,Zambales,2
+596,1/1/2022,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,610,220,TOY,Mindanao,24,2022,Lanao Del Norte,2
+597,1/1/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,490,220,,South Luzon,22,2022,Rizal,2
+598,1/1/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,478,220,,North Luzon,51,2022,Isabela,2
+599,1/2/2022,COST-M,Transformers Bumblebee Costume for Kids,3,479,220,9,Mindanao,10,2022,Agusan Del Norte,2
+600,1/2/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,450,220,,Metro Manila,38,2022,Metro Manila,2
+601,1/2/2022,TOY,Toy Gun Rifle for Kids with Lights and Sounds,40,542,220,TOY,North Luzon,43,2022,Nueva Ecija,2
+602,1/2/2022,COST-M,Muscle Thor Costume for Kids with Mask and Cape,56,605,220,13,South Luzon,33,2022,Quezon,2
+603,1/2/2022,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,635,220,TOY,Metro Manila,36,2022,Metro Manila,2
+604,1/2/2022,MASK,Spider-man Costume for Kids (Satin),27,581,220,5,South Luzon,5,2022,Rizal,2
+605,1/2/2022,DRSS-W,Muscle Hulk Costume for Kids with Mask,44,589,220,5,South Luzon,39,2022,Rizal,2
+606,1/2/2022,DRSS-W,Muscle Iron Man Costume for Kids with Mask,18,613,220,7,Metro Manila,33,2022,Metro Manila,2
+607,1/2/2022,COST-M,Animal Costume Elephant for Kids,36,714,220,L,South Luzon,5,2022,Cavite,2
+608,1/3/2022,COST-W,Squid Game Guard Costume for Kids with Mask and Toy,54,1801,190,,Metro Manila,47,2022,Metro Manila,2
+609,1/3/2022,COST-W,Iron Man Costume for Kids with Mask (Satin),35,777,160,3,North Luzon,5,2022,La Union,2
+610,1/3/2022,TOY,Thor Toy Hammer for Kids,43,1099,160,TOY,South Luzon,44,2022,Laguna,2
+611,1/3/2022,MASK,Animal Costume Tiger for Kids,55,1150,250,S,Metro Manila,44,2022,Metro Manila,2
+612,1/3/2022,COST-W,Muscle Superman Costume for Kids,17,960,250,5,Metro Manila,33,2022,Metro Manila,2
+613,1/3/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,1000,250,,Metro Manila,36,2022,Metro Manila,2
+614,1/3/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,740,130,,Metro Manila,34,2022,Metro Manila,2
+615,1/3/2022,TOY,Thor Costume for Kids with Mask and Cape,12,885,220,13,North Luzon,5,2022,Pampanga,2
+616,1/3/2022,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1000,220,TOY,Mindanao,37,2022,Davao Del Sur,2
+617,1/3/2022,DRSS-W,Iron Man Costume for Kids with Mask (Satin),35,900,220,11,North Luzon,33,2022,Bulacan,2
+618,1/4/2022,COST-W,Toy Gun Rifle for Kids with Lights and Sounds,40,819,220,TOY,Metro Manila,43,2022,Metro Manila,2
+619,1/4/2022,COST-W,Squid Game Guard Costume for Kids with Mask and Toy,54,885,220,,North Luzon,14,2022,Isabela,2
+620,1/4/2022,MASK,Squid Game Guard Costume for Kids with Mask and Toy,54,490,220,,North Luzon,10,2022,Pangasinan,2
+621,1/4/2022,COST-M,Thor Toy Hammer for Kids,43,610,220,TOY,Metro Manila,5,2022,Metro Manila,2
+622,1/4/2022,COST-W,Thor Costume for Kids with Mask and Cape,12,470,220,7,Metro Manila,47,2022,Metro Manila,2
+623,1/4/2022,TOY,Iron Man Costume for Kids with Mask (Satin),35,489,220,15,Metro Manila,37,2022,Metro Manila,2
+624,1/4/2022,TOY,Thor Toy Hammer for Kids,43,460,220,TOY,Visayas,10,2022,Iloilo,2
+625,1/4/2022,COST-W,"Superhero Masks - Thor, Ironman, Bumblebee",39,460,220,,South Luzon,24,2022,Albay,2
+626,1/4/2022,DRSS-W,Superman Costume for Kids (Satin),2,678,220,7,Metro Manila,38,2022,Metro Manila,2
+627,1/4/2022,TOY,Transformers Bumblebee Costume for Kids with mask,62,740,220,7,South Luzon,47,2022,Batangas,2
+628,1/4/2022,MASK,Thor Costume for Kids with Mask and Cape,12,639,220,7,South Luzon,44,2022,Batangas,2
+629,1/4/2022,COST-W,Muscle Batman Costume for Kids,9,600,220,,North Luzon,10,2022,Benguet,2
+630,1/5/2022,BAG,Iron Man Costume for Kids with Mask (Satin),35,630,220,15,Visayas,26,2022,Negros Occidental,2
+631,1/5/2022,MASK,Thor Costume for Kids with Mask and Cape,12,593,220,5,Visayas,23,2022,Iloilo,2
+632,1/5/2022,TOY,Thor Toy Hammer for Kids,43,675,220,TOY,Visayas,10,2022,Iloilo,2
+633,1/5/2022,TOY,Iron Man Costume for Kids with Mask (Satin),35,1750,190,15,Visayas,22,2022,Negros Occidental,2
+634,1/5/2022,TOY,Squid Game Guard Costume for Kids with Mask and Toy,54,1700,190,,South Luzon,33,2022,Oriental Mindoro,2
+635,1/5/2022,TOY,Squid Game Masks for Kids,57,870,160,,Metro Manila,10,2022,Metro Manila,2
+636,1/5/2022,COST-M,Darna Costume for Kids,19,785,160,13,South Luzon,5,2022,Cavite,2
+637,1/6/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,1160,160,,South Luzon,31,2022,Rizal,2
+638,1/6/2022,COST-W,Squid Game Guard Costume for Kids with Mask and Toy,54,1250,160,,North Luzon,5,2022,Cagayan,2
+639,1/6/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,1098,250,,North Luzon,22,2022,Benguet,2
+640,1/6/2022,TOY,Thor Costume for Kids with Mask and Cape,12,699,130,5,Visayas,45,2022,Iloilo,2
+641,1/6/2022,COST-M,Thor Toy Hammer for Kids,43,596,130,TOY,Metro Manila,31,2022,Metro Manila,2
+642,1/6/2022,TOY,Thor Costume for Kids with Mask and Cape,12,700,220,11,Metro Manila,6,2022,Metro Manila,2
+643,1/6/2022,COST-W,Toy Gun Rifle for Kids with Lights and Sounds,40,755,220,TOY,Mindanao,33,2022,Misamis Oriental,2
+644,1/6/2022,COST-M,Darna Costume for Kids,19,780,220,13,North Luzon,5,2022,Isabela,2
+645,1/6/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,800,220,,Visayas,44,2022,Negros Occidental,2
+646,1/6/2022,TOY,Iron Man Costume for Kids with Mask (Satin),35,425,220,3,South Luzon,3,2022,Camarines Sur,2
+647,1/7/2022,MASK,Animal Costume Giraffe for Kids,50,669,220,M,Metro Manila,18,2022,Metro Manila,2
+648,1/7/2022,COST-M,Owlette Costume PJ Masks for Kids,34,480,220,11,Metro Manila,48,2022,Metro Manila,2
+649,1/7/2022,COST-M,Muscle Iron Man Costume for Kids with Mask,18,615,220,9,Metro Manila,33,2022,Metro Manila,2
+650,1/7/2022,TOY,Squid Game Masks for Kids,57,658,220,,South Luzon,33,2022,Batangas,2
+651,1/7/2022,DRSS-W,Squid Game Masks for Kids,57,560,220,,South Luzon,33,2022,Batangas,2
+652,1/7/2022,COST-M,Animal Costume Rooster for Kids,45,800,220,L,Metro Manila,6,2022,Metro Manila,2
+653,1/7/2022,COST-M,Animal Costume Panda for Kids,42,1885,190,M,Metro Manila,5,2022,Metro Manila,2
+654,1/7/2022,COST-M,Animal Costume Dragon for Kids,65,700,160,M,Metro Manila,33,2022,Metro Manila,2
+655,1/8/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,1250,160,,North Luzon,5,2022,Pangasinan,2
+656,1/8/2022,TOY,Squid Game Guard Costume for Kids with Mask and Toy,54,1200,160,,South Luzon,23,2022,Cavite,2
+657,1/8/2022,COST-M,Animal Costume Tiger for Kids,55,682,220,L,Metro Manila,37,2022,Metro Manila,2
+658,1/8/2022,COST-M,Animal Costume Tiger for Kids,55,1045,220,S,Metro Manila,5,2022,Metro Manila,2
+659,1/9/2022,COST-M,Squid Game Masks for Kids,57,915,220,,Metro Manila,44,2022,Metro Manila,2
+660,1/9/2022,COST-W,Squid Game Masks for Kids,57,800,220,,Metro Manila,5,2022,Metro Manila,2
+661,1/9/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,462,220,,Metro Manila,31,2022,Metro Manila,2
+662,1/9/2022,COST-M,Thor Toy Hammer for Kids,43,457,220,TOY,Mindanao,33,2022,Agusan Del Norte,2
+663,1/10/2022,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,519,220,TOY,North Luzon,11,2022,Apayao,2
+664,1/11/2022,TOY,Superman Costume for Kids (Satin),2,458,220,9,North Luzon,10,2022,Isabela,2
+665,1/11/2022,TOY,Iron Man Costume for Kids with Mask (Satin),35,475,220,9,Visayas,31,2022,Cebu,2
+666,1/11/2022,TOY,Thor Toy Hammer for Kids,43,580,220,TOY,North Luzon,10,2022,Ilocos Norte,2
+667,1/12/2022,COST-W,Captain America Costume for Kids (Satin),8,640,220,3,North Luzon,5,2022,Pampanga,2
+668,1/18/2022,COST-M,Squid Game Guard Costume for Kids with Mask and Toy,54,732,220,,Mindanao,10,2022,Davao Del Sur,2
+669,1/19/2022,COST-W,Iron Man Costume for Kids with Mask (Satin),35,620,220,13,Mindanao,50,2022,Davao Del Sur,2
+670,12/4/2022,TOY,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,801,220,11,Metro Manila,33,2022,Metro Manila,2
+671,12/4/2022,COST-M,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,650,220,7,Metro Manila,21,2022,Metro Manila,2
+672,12/5/2022,COST-M,Spider-man Costume for Kids (Satin),27,611,220,13,South Luzon,33,2022,Cavite,2
+673,12/5/2022,COST-W,Red Cars Costume for Kids (Satin),38,600,220,7,Metro Manila,23,2022,Metro Manila,2
+674,12/5/2022,COST-W,"Power Rangers Costume for Kids (Colors: Red, Blue, Yellow)",4,1914,190,RM,Metro Manila,5,2022,Metro Manila,2
+675,12/6/2022,COST-W,Thor Toy Hammer for Kids,43,1760,190,TOY,North Luzon,5,2022,Nueva Vizcaya,2
+676,12/6/2022,TOY,Muscle Iron Man Costume for Kids with Mask,18,750,160,5,North Luzon,33,2022,Bulacan,2
+677,12/6/2022,TOY,Muscle Spider-man Costume for Kids,31,815,160,7,Metro Manila,50,2022,Metro Manila,2
+678,12/6/2022,COST-M,Muscle Batman Costume for Kids,9,1230,160,,North Luzon,33,2022,Bulacan,2
+679,12/6/2022,COST-M,Bat Girl Costume for Kids with Mask and Cape (Cotton),29,1399,160,S,North Luzon,44,2022,Bulacan,2
+680,12/6/2022,COST-M,Thor Toy Hammer for Kids,43,965,250,TOY,South Luzon,33,2022,Rizal,2
+681,12/6/2022,TOY,Thor Toy Hammer for Kids,43,976,250,TOY,North Luzon,33,2022,Nueva Ecija,2
+682,12/6/2022,COST,Animal Costume Zebra for Kids,66,835,130,M,South Luzon,10,2022,Rizal,2
+683,12/7/2022,DRSS-W,Muscle Hulk Costume for Kids with Mask,44,946,220,9,North Luzon,18,2022,Benguet,2
+684,12/7/2022,COST-M,Thor Toy Hammer for Kids,43,787,220,TOY,Metro Manila,38,2022,Metro Manila,2
+685,12/7/2022,MASK,Red Cars Costume for Kids (Satin),38,795,220,3,Metro Manila,5,2022,Metro Manila,2
+686,12/7/2022,COST-M,Thor Toy Hammer for Kids,43,650,220,TOY,South Luzon,5,2022,Cavite,2
+687,12/8/2022,COST-M,Wonder Woman Costume for Kids with Mask and Cape,49,505,220,XL,Metro Manila,33,2022,Metro Manila,2
+688,12/8/2022,TOY,Thor Toy Hammer for Kids,43,480,220,TOY,South Luzon,24,2022,Cavite,2
+689,12/8/2022,COST-M,Thor Toy Hammer for Kids,43,457,220,TOY,South Luzon,39,2022,Sorsogon,2
+690,12/8/2022,COST-M,Animal Costume Ox for Kids,67,640,220,L,Mindanao,6,2022,Misamis Oriental,2
+691,12/8/2022,TOY,Muscle Thor Costume for Kids,68,600,220,,South Luzon,5,2022,Batangas,2
+692,12/8/2022,COST-M,Thor Toy Hammer for Kids,43,670,220,TOY,North Luzon,44,2022,Nueva Ecija,2
+693,12/9/2022,COST-M,Iron Man Costume for Kids with Mask (Satin),35,575,220,5,South Luzon,5,2022,Romblon,2
+694,12/9/2022,COST-M,Thor Toy Hammer for Kids,43,1879,190,TOY,South Luzon,29,2022,Cavite,2
+695,12/9/2022,COST-M,"Power Rangers Costume for Kids (Colors: Red, Blue, Yellow)",4,800,160,RM,South Luzon,5,2022,Rizal,2
+696,12/9/2022,DRSS-W,Thor Toy Hammer for Kids,43,1050,250,TOY,Metro Manila,44,2022,Metro Manila,2
+697,12/9/2022,TOY,Thor Toy Hammer for Kids,43,825,130,TOY,South Luzon,30,2022,Batangas,2
+698,12/9/2022,DRSS-W,Thor Toy Hammer for Kids,43,1150,220,TOY,Mindanao,5,2022,Surigao Del Norte,2
+699,12/9/2022,COST-M,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,1025,220,9,Visayas,44,2022,Southern Leyte,2
+700,12/9/2022,COST-M,Muscle Iron Man Costume for Kids with Mask,18,805,220,3,Mindanao,22,2022,Agusan Del Sur,2
+701,12/9/2022,TOY,Thor Toy Hammer for Kids,43,830,220,TOY,Metro Manila,48,2022,Metro Manila,2
+702,12/9/2022,TOY,Muscle Thor Costume for Kids,68,500,220,MT09,Metro Manila,5,2022,Metro Manila,2
+703,12/10/2022,COST-M,Animal Costume Rabbit for Kids,69,467,220,S,South Luzon,5,2022,Rizal,2
+704,12/10/2022,COST-M,Muscle Captain America Costume for Kids,13,469,220,13,South Luzon,47,2022,Albay,2
+705,12/10/2022,DRSS,Thor Toy Hammer for Kids,43,595,220,TOY,Metro Manila,10,2022,Metro Manila,2
+706,12/10/2022,COST-M,Bumblebee Swimsuit Costume for Kids Yellow,70,464,220,Y6,South Luzon,47,2022,Cavite,2
+707,12/11/2022,TOY,Thor Toy Hammer for Kids,43,605,220,TOY,Metro Manila,11,2022,Metro Manila,2
+708,12/11/2022,MASK,Thor Toy Hammer for Kids,43,642,220,TOY,North Luzon,33,2022,Ilocos Norte,2
+709,12/11/2022,BAG,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,663,220,13,North Luzon,23,2022,Nueva Ecija,2
+710,12/11/2022,COST-M,Thor Toy Hammer for Kids,43,1975,190,TOY,South Luzon,33,2022,Cavite,2
+711,12/11/2022,COST-M,Bumblebee Swimsuit Costume for Kids Yellow,70,1175,160,Y6,South Luzon,22,2022,Cavite,2
+712,12/12/2022,COST-W,Thor Toy Hammer for Kids,43,730,130,TOY,Metro Manila,6,2022,Metro Manila,2
+713,12/12/2022,COST-M,Muscle Iron Man Costume for Kids with Mask,18,1130,220,11,Mindanao,18,2022,Surigao Del Norte,2
+714,12/12/2022,COST-M,Gekko Costume Set PJ Masks,1,1055,220,11,Visayas,18,2022,Negros Occidental,2
+715,12/12/2022,COST,Muscle Thor Costume for Kids,68,833,220,MTH09,North Luzon,5,2022,Nueva Vizcaya,2
+716,12/13/2022,TOY,Thor Toy Hammer for Kids,43,790,220,TOY,South Luzon,40,2022,Rizal,2
+717,12/13/2022,TOY,[ Adult ] Batman Costume with Cape,24,1025,220,L,South Luzon,10,2022,Laguna,2
+718,12/13/2022,COST-M,Iron Man Costume for Kids with Mask (Satin),35,815,220,5,Metro Manila,37,2022,Metro Manila,2
+719,12/13/2022,COST-M,"Princess Anna Accessories (Crown, Wand, and Hair)",47,771,220,,North Luzon,5,2022,Bulacan,2
+720,12/13/2022,COST-M,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,450,220,7,Metro Manila,11,2022,Metro Manila,2
+721,12/13/2022,COST-M,Thor Toy Hammer for Kids,43,470,220,TOY,North Luzon,5,2022,Pampanga,2
+722,12/14/2022,DRSS-W,Muscle Thor Costume for Kids,68,570,220,MT11,Mindanao,5,2022,Surigao Del Norte,2
+723,12/14/2022,TOY,Animal Costume Panda for Kids,42,461,220,S,Metro Manila,26,2022,Metro Manila,2
+724,12/14/2022,TOY,Captain America Shield Toy for Kids PVC Plastic,71,470,220,TOY,Metro Manila,31,2022,Metro Manila,2
+725,12/14/2022,TOY,Thor Toy Hammer for Kids,43,665,220,TOY,Mindanao,5,2022,Lanao Del Sur,2
+726,12/14/2022,COST-M,Thor Toy Hammer for Kids,43,648,220,TOY,South Luzon,22,2022,Laguna,2
+727,12/15/2022,COST-M,Red Cars Costume for Kids (Satin),38,650,220,5,South Luzon,14,2022,Albay,2
+728,12/15/2022,TOY,Muscle Thor Costume for Kids,68,639,220,MTH11,North Luzon,5,2022,Benguet,2
+729,12/15/2022,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,660,220,TOY,Metro Manila,31,2022,Metro Manila,2
+730,12/16/2022,BAG,Thor Toy Hammer for Kids,43,575,220,TOY,Metro Manila,5,2022,Metro Manila,2
+731,12/16/2022,BAG,Thor Toy Hammer for Kids,43,649,220,TOY,Metro Manila,10,2022,Metro Manila,2
+732,12/16/2022,COST-M,Catboy Costume Set PJ Masks,21,2000,190,,South Luzon,39,2022,Camarines Norte,2
+733,12/16/2022,COST-M,Muscle Thor Costume for Kids,68,2005,190,MTH09,Metro Manila,39,2022,Metro Manila,2
+734,12/16/2022,COST-M,"Princess Anna Accessories (Crown, Wand, and Hair)",47,820,160,,South Luzon,5,2022,Cavite,2
+735,12/16/2022,TOY,Thor Toy Hammer for Kids,43,1300,160,TOY,Metro Manila,5,2022,Metro Manila,2
+736,12/17/2022,MASK,Spider-man Costume for Kids (Satin),27,1155,220,9,North Luzon,18,2022,Pangasinan,2
+737,12/17/2022,MASK,Thor Toy Hammer for Kids,43,976,220,TOY,Metro Manila,5,2022,Metro Manila,2
+738,12/17/2022,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,610,220,TOY,North Luzon,37,2022,Bulacan,2
+739,12/17/2022,COST-M,Gekko Costume Set PJ Masks,1,766,220,9,South Luzon,5,2022,Rizal,2
+740,12/17/2022,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,874,220,9,South Luzon,48,2022,Rizal,2
+741,12/17/2022,COST-M,Iron Man Costume for Kids with Mask (Satin),35,830,220,9,Metro Manila,33,2022,Metro Manila,2
+742,12/18/2022,COST-M,Thor Toy Hammer for Kids,43,790,220,TOY,North Luzon,33,2022,Tarlac,2
+743,12/18/2022,COST-M,Thor Toy Hammer for Kids,43,777,220,TOY,South Luzon,18,2022,Catanduanes,2
+744,12/18/2022,TOY,Muscle Thor Costume for Kids,68,499,220,MT09,South Luzon,44,2022,Catanduanes,2
+745,12/18/2022,TOY,Thor Toy Hammer for Kids,43,465,220,TOY,South Luzon,33,2022,Laguna,2
+746,12/18/2022,MASK,Thor Toy Hammer for Kids,43,572,220,TOY,Metro Manila,33,2022,Metro Manila,2
+747,12/18/2022,COST-M,Spongebob Backpack for Kids,28,700,220,BAG,North Luzon,47,2022,Abra,2
+748,12/19/2022,TOY,Thor Toy Hammer for Kids,43,650,220,TOY,Metro Manila,18,2022,Metro Manila,2
+749,12/19/2022,COST-M,Muscle Thor Costume for Kids,68,670,220,MTH11,Mindanao,15,2022,Bukidnon,2
+750,12/19/2022,TOY,Thor Toy Hammer for Kids,43,720,220,TOY,South Luzon,37,2022,Cavite,2
+751,12/19/2022,MASK,Captain America Costume for Kids (Satin),8,569,220,9,South Luzon,16,2022,Cavite,2
+752,12/19/2022,MASK,Captain America Shield Toy for Kids PVC Plastic,71,560,220,TOY,South Luzon,33,2022,Cavite,2
+753,12/19/2022,TOY,Thor Toy Hammer for Kids,43,550,220,TOY,Metro Manila,10,2022,Metro Manila,2
+754,12/19/2022,COST-M,Muscle Thor Costume for Kids,68,450,220,,Metro Manila,10,2022,Metro Manila,2
+755,12/19/2022,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,665,220,T,Metro Manila,44,2022,Metro Manila,2
+756,12/20/2022,TOY,"Princess Anna Accessories (Crown, Wand, and Hair)",47,669,220,,South Luzon,38,2022,Batangas,2
+757,12/21/2022,COST-M,Red Cars Costume for Kids (Satin),38,675,220,15,North Luzon,5,2022,La Union,2
+758,12/21/2022,COST-W,Sofia Crown for Kids Pink or Purple,51,1756,190,,South Luzon,14,2022,Albay,2
+759,12/21/2022,OVER-M,Dog Costume for Kids Yellow,72,1947,190,,North Luzon,44,2022,Cagayan,2
+760,12/21/2022,COST-M,Thor Toy Hammer for Kids,43,850,160,TOY,North Luzon,45,2022,Bulacan,2
+761,12/21/2022,TOY,Captain America Shield Toy for Kids PVC Plastic,71,1060,160,TOY,Metro Manila,5,2022,Metro Manila,2
+762,12/22/2022,OVER-M,Toy Gun Rifle for Kids with Lights and Sounds,40,1250,160,TOY,South Luzon,23,2022,Quezon,2
+763,12/22/2022,COST-M,Thor Toy Hammer for Kids,43,965,250,TOY,South Luzon,36,2022,Rizal,2
+764,12/22/2022,COST-M,Spongebob Backpack for Kids,28,745,130,BAG,Mindanao,5,2022,Misamis Oriental,2
+765,12/23/2022,COST-M,Animal Costume Duck for Kids,73,1000,200,M,Mindanao,5,2022,Davao Del Sur,2
+766,12/23/2022,BAG,Muscle Thor Costume for Kids,68,1010,220,MT11,Visayas,39,2022,Southern Leyte,2
+767,12/23/2022,COST-M,Thor Toy Hammer for Kids,43,964,220,TOY,Metro Manila,44,2022,Metro Manila,2
+768,12/24/2022,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,1039,220,TOY,Metro Manila,5,2022,Metro Manila,2
+769,12/24/2022,COST-M,Muscle Thor Costume for Kids,68,950,220,MT09,South Luzon,37,2022,Laguna,2
+770,12/24/2022,COST-M,Transformers Bumblebee Costume for Kids with mask,62,755,220,3,North Luzon,38,2022,Nueva Ecija,2
+771,12/25/2022,COST-W,Darna Costume for Kids,19,831,220,7,North Luzon,44,2022,Bulacan,2
+772,12/25/2022,COST-M,Iron Man Costume for Kids with Mask (Satin),35,690,220,9,Mindanao,38,2022,South Cotabato,2
+773,12/25/2022,COST-M,Thor Toy Hammer for Kids,43,477,220,TOY,Metro Manila,47,2022,Metro Manila,2
+774,12/25/2022,COST-M,Thor Toy Hammer for Kids,43,485,220,TOY,North Luzon,3,2022,Bulacan,2
+775,12/25/2022,MASK,Captain America Shield Toy for Kids PVC Plastic,71,773,220,TOY,North Luzon,33,2022,Bulacan,2
+776,12/25/2022,COST-M,Iron Man Costume for Kids with Mask (Satin),35,530,220,5,Visayas,10,2022,Leyte,2
+777,12/25/2022,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,665,220,B,South Luzon,10,2022,Catanduanes,2
+778,12/26/2022,MASK,[ Adult ] Batman Costume with Cape,24,675,220,L,North Luzon,20,2022,Pampanga,2
+779,12/26/2022,COST-W,Santa Girl Costume for Kids,26,699,220,M,Metro Manila,34,2022,Metro Manila,2
+780,12/26/2022,COST-M,Thor Toy Hammer for Kids,43,655,220,TOY,South Luzon,40,2022,Oriental Mindoro,2
+781,12/26/2022,COST-M,Animal Costume Rabbit for Kids,69,660,220,S,North Luzon,1,2022,Benguet,2
+782,12/27/2022,COST-M,Darna Costume for Kids,19,635,220,9,Metro Manila,33,2022,Metro Manila,2
+783,12/27/2022,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,1950,190,TOY,Metro Manila,44,2022,Metro Manila,2
+784,12/27/2022,COST-M,Santa Girl Costume for Kids,26,835,160,S,Mindanao,50,2022,Davao Del Sur,2
+785,12/31/2022,COST-M,Thor Costume for Kids,74,1350,160,TH07,Visayas,33,2022,Negros Occidental,2
+786,12/31/2022,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,920,250,TOY,Metro Manila,48,2022,Metro Manila,2
+787,1/1/2023,MASK,Thor Toy Hammer for Kids,43,785,130,TOY,Metro Manila,50,2023,Metro Manila,2
+788,1/2/2023,TOY,Darna Costume for Kids,19,939,200,11,Mindanao,5,2023,Misamis Occidental,2
+789,1/2/2023,COST-W,Darna Costume for Kids,19,1000,220,15,Mindanao,10,2023,Misamis Occidental,2
+790,1/4/2023,DRSS-W,Darna Costume for Kids,19,993,220,11,South Luzon,5,2023,Masbate,2
+791,1/4/2023,COST-M,Darna Costume for Kids,19,785,220,9,North Luzon,33,2023,Pangasinan,2
+792,1/4/2023,TOY,Darna Costume for Kids,19,785,220,15,North Luzon,5,2023,Pangasinan,2
+793,1/5/2023,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,800,220,TOY,Metro Manila,46,2023,Metro Manila,2
+794,1/5/2023,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,468,220,TOY,North Luzon,5,2023,Zambales,2
+795,1/6/2023,COST-M,Thor Toy Hammer for Kids,43,500,220,TOY,South Luzon,5,2023,Laguna,2
+796,1/7/2023,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,460,220,TOY,South Luzon,22,2023,Laguna,2
+797,1/7/2023,TOY,Ben 10 Pajamas for Boys (Ages 4 to 10),75,450,220,16,North Luzon,10,2023,Ilocos Sur,2
+798,1/7/2023,COST-M,Toy Gun Rifle for Kids with Lights and Sounds,40,650,220,TOY,South Luzon,10,2023,Rizal,2
+799,1/8/2023,COST-M,Thor Toy Hammer for Kids,43,641,220,TOY,South Luzon,38,2023,Oriental Mindoro,2
+800,1/8/2023,MASK,Thor Costume for Kids,74,610,220,TH09,Metro Manila,6,2023,Metro Manila,2
+801,1/8/2023,DRSS-W,Animal Costume Ox for Kids,67,621,220,S,Metro Manila,5,2023,Metro Manila,2
+802,1/14/2023,DRSS-W,Captain America Costume for Kids (Satin),8,850,160,7,Mindanao,47,2023,Misamis Oriental,2
+803,1/14/2023,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,810,220,TOY,Mindanao,48,2023,Misamis Oriental,2
+804,12/4/2023,COST-W,Iron Man Costume for Kids with Mask (Satin),35,1049,220,13,North Luzon,24,2023,Pampanga,2
+805,12/5/2023,COST-W,Iron Man Costume for Kids with Mask (Satin),35,809,220,13,North Luzon,33,2023,Nueva Ecija,2
+806,12/5/2023,TOY,"Superhero Masks - Thor, Ironman, Bumblebee",39,775,220,B,North Luzon,22,2023,Pampanga,2
+807,12/5/2023,MASK,Thor Toy Hammer for Kids,43,686,220,TOY,North Luzon,38,2023,Kalinga,2
+808,12/6/2023,COST-W,Darna Costume for Kids,19,480,220,11,North Luzon,5,2023,Pampanga,2
+809,12/6/2023,COST-M,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,513,220,9,Metro Manila,24,2023,Metro Manila,2
+810,12/6/2023,COST-M,[ Adult ] Superman Costume with Cape,58,474,220,L,Metro Manila,44,2023,Metro Manila,2
+811,12/6/2023,TOY,Thor Toy Hammer for Kids,43,510,220,TOY,South Luzon,49,2023,Laguna,2
+812,12/7/2023,COST-M,Muscle Iron Man Costume for Kids with Mask,18,669,220,I13M,Metro Manila,44,2023,Metro Manila,2
+813,12/7/2023,DRSS-W,Muscle Iron Man Costume for Kids with Mask,18,660,220,I13M,South Luzon,10,2023,Cavite,2
+814,12/7/2023,COST-W,Thor Costume for Kids,74,670,220,T07,North Luzon,5,2023,Bulacan,2
+815,12/7/2023,COST-W,Muscle Superman Costume for Kids,17,617,220,13,Metro Manila,44,2023,Metro Manila,2
+816,12/7/2023,MASK,Thor Toy Hammer for Kids,43,1820,190,TOY,Metro Manila,8,2023,Metro Manila,2
+817,12/8/2023,COST-M,Iron Man Costume for Kids with Mask (Satin),35,1399,160,15,North Luzon,33,2023,Bulacan,2
+818,12/8/2023,COST-W,"Princess Anna Accessories (Crown, Wand, and Hair)",47,1260,160,,North Luzon,5,2023,Bulacan,2
+819,12/8/2023,TOY,"Superhero Masks - Thor, Ironman, Bumblebee",39,955,250,T,Metro Manila,8,2023,Metro Manila,2
+820,12/8/2023,TOY,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,999,220,11,North Luzon,47,2023,Ifugao,2
+821,12/8/2023,COST-W,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,750,220,3,North Luzon,23,2023,Ifugao,2
+822,12/8/2023,DRSS-W,Batman Costume for Kids (Satin),7,795,220,7,South Luzon,23,2023,Oriental Mindoro,2
+823,12/8/2023,TOY,Darna Costume for Kids,19,750,220,15,South Luzon,23,2023,Quezon,2
+824,12/8/2023,MASK,Darna Costume for Kids,19,461,220,13,Metro Manila,38,2023,Metro Manila,2
+825,12/8/2023,COST-W,Thor Toy Hammer for Kids,43,495,220,TOY,North Luzon,33,2023,Bulacan,2
+826,12/8/2023,BAG,"Superhero Masks - Thor, Ironman, Bumblebee",39,460,220,T,North Luzon,38,2023,Bulacan,2
+827,12/8/2023,MASK,Darna Costume for Kids,19,525,220,11,Mindanao,6,2023,Sultan Kudarat,2
+828,12/8/2023,TOY,Spider-man Costume for Kids (Satin),27,456,220,7,South Luzon,38,2023,Cavite,2
+829,12/8/2023,TOY,Catboy Costume Set PJ Masks,21,635,220,,North Luzon,33,2023,Bulacan,2
+830,12/9/2023,TOY,Captain America Shield Toy for Kids PVC Plastic,71,705,220,TOY,North Luzon,47,2023,Isabela,2
+831,12/9/2023,TOY,Muscle Superman Costume for Kids,17,570,220,9,North Luzon,5,2023,Nueva Ecija,2
+832,12/9/2023,COST-M,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,580,220,13,South Luzon,14,2023,Cavite,2
+833,12/9/2023,COST-M,Darna Costume for Kids,19,610,220,7,Visayas,36,2023,Bohol,2
+834,12/9/2023,COST-W,Darna Costume for Kids,19,785,160,11,Metro Manila,5,2023,Metro Manila,2
+835,12/9/2023,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,1200,160,T,South Luzon,47,2023,Cavite,2
+836,12/9/2023,TOY,Muscle Thor Costume for Kids,68,910,200,MTH11,Metro Manila,5,2023,Metro Manila,2
+837,12/9/2023,COST-M,Santa Girl Costume for Kids,26,1090,220,,Metro Manila,18,2023,Metro Manila,2
+838,12/10/2023,TOY,Thor Toy Hammer for Kids,43,950,220,TOY,Visayas,36,2023,Negros Occidental,2
+839,12/10/2023,COST-W,Captain America Shield Toy for Kids PVC Plastic,71,880,220,TOY,Visayas,31,2023,Negros Occidental,2
+840,12/10/2023,COST-M,Darna Costume for Kids,19,798,220,9,South Luzon,5,2023,Quezon,2
+841,12/10/2023,COST-M,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,471,220,3,Metro Manila,38,2023,Metro Manila,2
+842,12/10/2023,TOY,Thor Toy Hammer for Kids,43,469,220,TOY,South Luzon,48,2023,Rizal,2
+843,12/10/2023,MASK,"Superhero Masks - Thor, Ironman, Bumblebee",39,690,220,T,South Luzon,33,2023,Rizal,2
+844,12/10/2023,COST-M,Santa Girl Costume for Kids,26,650,220,XL,North Luzon,5,2023,Isabela,2
+845,12/10/2023,COST-M,Spongebob Backpack for Kids,28,625,220,BAG,Visayas,18,2023,Cebu,2
+846,12/10/2023,TOY,"Superhero Masks - Thor, Ironman, Bumblebee",39,641,220,B,Metro Manila,3,2023,Metro Manila,2
+847,12/10/2023,DRSS-W,Captain America Shield Toy for Kids PVC Plastic,71,660,220,TOY,Metro Manila,10,2023,Metro Manila,2
+848,12/11/2023,COST-M,Thor Toy Hammer for Kids,43,624,220,TOY,North Luzon,33,2023,Zambales,2
+849,12/11/2023,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,650,220,TOY,North Luzon,41,2023,Zambales,2
+850,12/11/2023,COST-M,Thor Toy Hammer for Kids,43,1950,190,TOY,North Luzon,44,2023,Zambales,2
+851,12/11/2023,COST-M,Muscle Iron Man Costume for Kids with Mask,18,850,160,I11M,South Luzon,5,2023,Camarines Sur,2
+852,12/11/2023,TOY,Thor Costume for Kids,74,1300,160,TH15,Visayas,10,2023,Cebu,2
+853,12/11/2023,COST-M,Darna Costume for Kids,19,1195,250,9,Visayas,5,2023,Iloilo,2
+854,12/11/2023,COST-M,Superman Costume for Kids (Satin),2,993,220,13,Metro Manila,38,2023,Metro Manila,2
+855,12/11/2023,COST-M,Thor Toy Hammer for Kids,43,765,220,TOY,South Luzon,33,2023,Laguna,2
+856,12/11/2023,COST-W,Iron Man Costume for Kids with Mask (Satin),35,477,220,11,Metro Manila,50,2023,Metro Manila,2
+857,12/11/2023,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,470,220,TOY,Mindanao,33,2023,Davao Del Sur,2
+858,12/11/2023,COST-M,Darna Costume for Kids,19,585,220,7,Visayas,33,2023,Western Samar,2
+859,12/11/2023,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,495,220,7,North Luzon,20,2023,Bataan,2
+860,12/12/2023,TOY,Muscle Thor Costume for Kids,68,550,220,,Mindanao,31,2023,Lanao Del Sur,2
+861,12/12/2023,TOY,Thor Toy Hammer for Kids,43,451,220,TOY,Metro Manila,38,2023,Metro Manila,2
+862,12/12/2023,TOY,"Superhero Masks - Thor, Ironman, Bumblebee",39,650,220,T,Metro Manila,5,2023,Metro Manila,2
+863,12/12/2023,COST-W,[ Adult ] Superman Costume with Cape,58,595,220,M,Mindanao,31,2023,Zamboanga Del Sur,2
+864,12/12/2023,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,825,220,7,North Luzon,36,2023,Benguet,2
+865,12/12/2023,COST-W,Thor Toy Hammer for Kids,43,702,220,TOY,Metro Manila,5,2023,Metro Manila,2
+866,12/12/2023,TOY,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,1870,190,11,North Luzon,22,2023,Cagayan,2
+867,12/12/2023,COST-M,Iron Man Costume for Kids with Mask (Satin),35,950,250,15,North Luzon,5,2023,Bulacan,2
+868,12/12/2023,COST-M,"Princess Anna Accessories (Crown, Wand, and Hair)",47,920,200,,South Luzon,33,2023,Cavite,2
+869,12/12/2023,COST-W,Red Cars Costume for Kids (Satin),38,940,220,13,South Luzon,36,2023,Cavite,2
+870,12/12/2023,COST-W,Muscle Superman Costume for Kids,17,1095,220,9,Visayas,33,2023,Cebu,2
+871,12/12/2023,COST-W,Thor Toy Hammer for Kids,43,920,220,TOY,Metro Manila,38,2023,Metro Manila,2
+872,12/13/2023,TOY,Muscle Spider-man Costume for Kids,31,988,220,3,Visayas,18,2023,Cebu,2
+873,12/13/2023,TOY,Muscle Batman Costume for Kids,9,800,220,,Visayas,15,2023,Cebu,2
+874,12/13/2023,COST-M,Muscle Batman Costume for Kids,9,800,220,,Visayas,5,2023,Capiz,2
+875,12/13/2023,COST-M,Santa Girl Costume for Kids,26,800,220,XL,South Luzon,44,2023,Quezon,2
+876,12/13/2023,COST-M,Catboy Costume Set PJ Masks,21,456,220,,North Luzon,5,2023,Bulacan,2
+877,12/13/2023,TOY,[ Adult ] Superman Costume with Cape,58,460,220,M,Metro Manila,5,2023,Metro Manila,2
+878,12/13/2023,COST,Iron Man Costume for Kids with Mask (Satin),35,479,220,11,Visayas,5,2023,Iloilo,2
+879,12/13/2023,DRSS-W,Thor Toy Hammer for Kids,43,644,220,TOY,Metro Manila,5,2023,Metro Manila,2
+880,12/13/2023,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,740,220,TOY,Metro Manila,5,2023,Metro Manila,2
+881,12/13/2023,MASK,Thor Toy Hammer for Kids,43,565,220,TOY,North Luzon,23,2023,Bulacan,2
+882,12/13/2023,COST-M,Santa Girl Costume for Kids,26,670,220,M,North Luzon,44,2023,Pangasinan,2
+883,12/13/2023,COST-M,Muscle Thor Costume for Kids,68,600,220,MTH03,Metro Manila,5,2023,Metro Manila,2
+884,12/13/2023,TOY,Darna Costume for Kids,19,675,220,15,Visayas,22,2023,Negros Occidental,2
+885,12/14/2023,COST-M,Thor Toy Hammer for Kids,43,1908,190,TOY,South Luzon,5,2023,Rizal,2
+886,12/14/2023,COST-M,Muscle Thor Costume for Kids,68,850,160,MTH07,North Luzon,39,2023,Ilocos Norte,2
+887,12/14/2023,TOY,Muscle Superman Costume for Kids,17,1399,160,3,South Luzon,10,2023,Cavite,2
+888,12/14/2023,COST-M,Santa Girl Costume for Kids,26,1047,250,,North Luzon,44,2023,Nueva Ecija,2
+889,12/14/2023,COST-M,Santa Girl Costume for Kids,26,855,220,M,North Luzon,23,2023,Nueva Ecija,2
+890,12/14/2023,COST-M,Santa Girl Costume for Kids,26,898,220,L,North Luzon,5,2023,Nueva Ecija,2
+891,12/14/2023,COST-M,Thor Toy Hammer for Kids,43,770,220,TOY,Metro Manila,10,2023,Metro Manila,2
+892,12/14/2023,DRSS-W,Captain America Shield Toy for Kids PVC Plastic,71,695,220,TOY,Metro Manila,5,2023,Metro Manila,2
+893,12/14/2023,TOY,Muscle Spider-man Costume for Kids,31,456,220,7,Metro Manila,38,2023,Metro Manila,2
+894,12/14/2023,DRSS-W,Muscle Iron Man Costume for Kids with Mask,18,470,220,I11M,Metro Manila,3,2023,Metro Manila,2
+895,12/14/2023,COST-M,Superman Costume for Kids (Satin),2,451,220,15,North Luzon,33,2023,Bulacan,2
+896,12/15/2023,COST-M,Thor Toy Hammer for Kids,43,700,220,TOY,North Luzon,33,2023,La Union,2
+897,12/15/2023,TOY,Animal Costume Dragon for Kids,65,612,220,L,Visayas,31,2023,Iloilo,2
+898,12/15/2023,TOY,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,635,220,11,South Luzon,23,2023,Rizal,2
+899,12/15/2023,COST-M,Muscle Iron Man Costume for Kids with Mask,18,670,220,I11M,South Luzon,5,2023,Rizal,2
+900,12/15/2023,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,635,220,B,North Luzon,33,2023,Isabela,2
+901,12/15/2023,DRSS,Muscle Iron Man Costume for Kids with Mask,18,747,220,I03M,Metro Manila,6,2023,Metro Manila,2
+902,12/15/2023,COST-M,"Princess Anna Accessories (Crown, Wand, and Hair)",47,1258,160,,North Luzon,5,2023,Benguet,2
+903,12/15/2023,TOY,Thor Toy Hammer for Kids,43,995,250,TOY,North Luzon,5,2023,Pampanga,2
+904,12/15/2023,MASK,Thor Costume for Kids,74,1250,200,TH03,Visayas,5,2023,Iloilo,2
+905,12/16/2023,BAG,Iron Man Costume for Kids with Mask (Satin),35,970,220,11,Metro Manila,33,2023,Metro Manila,2
+906,12/16/2023,COST-M,Thor Toy Hammer for Kids,43,990,220,TOY,North Luzon,11,2023,Zambales,2
+907,12/16/2023,COST-M,Captain America Costume for Kids (Satin),8,950,220,3,North Luzon,33,2023,Nueva Ecija,2
+908,12/16/2023,COST-W,Muscle Iron Man Costume for Kids with Mask,18,866,220,I03M,Metro Manila,5,2023,Metro Manila,2
+909,12/16/2023,COST-M,Muscle Iron Man Costume for Kids with Mask,18,805,220,I13M,South Luzon,33,2023,Batangas,2
+910,12/16/2023,COST-M,Muscle Batman Costume for Kids,9,750,220,,South Luzon,5,2023,Batangas,2
+911,12/16/2023,COST,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,480,220,9,South Luzon,24,2023,Rizal,2
+912,12/16/2023,TOY,Thor Toy Hammer for Kids,43,480,220,TOY,North Luzon,33,2023,Bulacan,2
+913,12/17/2023,TOY,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,475,220,5,Visayas,5,2023,Negros Occidental,2
+914,12/17/2023,COST-M,Muscle Thor Costume for Kids,68,670,220,MTH09,Mindanao,44,2023,Zamboanga Sibugay,2
+915,12/17/2023,COST-M,Spider-man Costume for Kids (Cotton),64,640,220,XL,Mindanao,34,2023,Bukidnon,2
+916,12/17/2023,COST-M,Thor Toy Hammer for Kids,43,635,220,TOY,North Luzon,38,2023,Bulacan,2
+917,12/17/2023,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,640,220,TOY,North Luzon,21,2023,Bulacan,2
+918,12/17/2023,DRSS-W,Red Cars Costume for Kids (Satin),38,661,220,11,South Luzon,5,2023,Rizal,2
+919,12/17/2023,TOY,Muscle Iron Man Costume for Kids with Mask,18,565,220,I03,North Luzon,5,2023,Pampanga,2
+920,12/17/2023,TOY,Chinese Dress for Kids (Cheongsam),76,1250,200,2,North Luzon,10,2023,Pampanga,2
+921,12/18/2023,TOY,Iron Man Costume for Kids with Mask (Satin),35,1056,200,11,Metro Manila,10,2023,Metro Manila,2
+922,12/18/2023,COST-M,Thor Toy Hammer for Kids,43,1000,200,TOY,South Luzon,10,2023,Camarines Sur,2
+923,12/18/2023,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,950,200,T,South Luzon,10,2023,Camarines Sur,2
+924,12/18/2023,TOY,Spongebob Backpack for Kids,28,900,200,BAG,South Luzon,33,2023,Albay,2
+925,12/18/2023,COST-M,Muscle Thor Costume for Kids,68,951,200,MTH07,South Luzon,33,2023,Batangas,2
+926,12/18/2023,BAG,Muscle Captain America Costume for Kids,13,936,200,5,South Luzon,33,2023,Batangas,2
+927,12/19/2023,BAG,Darna Costume for Kids,19,1910,200,13,Visayas,5,2023,Negros Occidental,2
+928,12/19/2023,COST-M,Spider-man Costume for Kids (Satin),27,1505,200,9,Visayas,26,2023,Negros Occidental,2
+929,12/19/2023,COST-M,Iron Man Costume for Kids with Mask (Satin),35,890,220,7,Visayas,38,2023,Negros Occidental,2
+930,12/19/2023,COST-M,Animal Costume Dragon for Kids,65,973,220,M,Mindanao,10,2023,Basilan,2
+931,12/19/2023,TOY,Thor Toy Hammer for Kids,43,991,220,TOY,Metro Manila,29,2023,Metro Manila,2
+932,12/19/2023,MASK,Thor Toy Hammer for Kids,43,825,220,TOY,Metro Manila,33,2023,Metro Manila,2
+933,12/19/2023,MASK,Muscle Superman Costume for Kids,17,809,220,5,North Luzon,29,2023,Pampanga,2
+934,12/20/2023,COST-M,Thor Costume for Kids,74,1000,220,TH09,North Luzon,33,2023,Nueva Vizcaya,2
+935,12/20/2023,COST-M,Ninja Turtle Costume for Kids with Mask and Shell,15,900,220,7,Mindanao,31,2023,Zamboanga Del Sur,2
+936,12/20/2023,COST-M,Superman Costume for Kids (Satin),2,940,220,7,South Luzon,33,2023,Cavite,2
+937,12/20/2023,COST-M,Minnie Mouse Red Polka Dots Dress Costume for Kids,16,965,220,9,Metro Manila,14,2023,Metro Manila,2
+938,12/20/2023,COST-M,Thor Toy Hammer for Kids,43,1000,220,TOY,North Luzon,38,2023,Bulacan,2
+939,12/21/2023,COST-M,Captain America Shield Toy for Kids PVC Plastic,71,650,220,TOY,Metro Manila,48,2023,Metro Manila,2
+940,12/21/2023,TOY,Captain America Shield Toy for Kids PVC Plastic,71,663,220,TOY,North Luzon,38,2023,Apayao,2
+941,12/21/2023,TOY,Muscle Superman Costume for Kids,17,711,220,3,Mindanao,5,2023,Bukidnon,2
+942,12/21/2023,MASK,Muscle Superman Costume for Kids,17,690,220,11,Mindanao,48,2023,Davao Del Norte,2
+943,12/22/2023,COST-M,Thor Toy Hammer for Kids,43,621,220,TOY,Visayas,5,2023,Cebu,2
+944,12/22/2023,TOY,Muscle Iron Man Costume for Kids with Mask,18,646,220,I05M,North Luzon,38,2023,Pangasinan,2
+945,12/22/2023,COST-M,Spongebob Backpack for Kids,28,871,220,BAG,Metro Manila,29,2023,Metro Manila,2
+946,12/22/2023,TOY,Spongebob Backpack for Kids,28,963,220,BAG,North Luzon,29,2023,Pampanga,2
+947,12/22/2023,MASK,Thor Costume for Kids,74,1130,220,TH07,Mindanao,5,2023,Davao Del Norte,2
+948,12/22/2023,MASK,"Princess Elsa Accessories (Crown, Wand, and Hair)",53,1026,220,,Mindanao,38,2023,Davao Del Sur,2
+949,12/23/2023,TOY,Superman Costume for Kids (Satin),2,981,220,5,South Luzon,29,2023,Quezon,2
+950,12/23/2023,COST-M,Thor Toy Hammer for Kids,43,750,220,TOY,Metro Manila,36,2023,Metro Manila,2
+951,12/23/2023,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,851,220,I,Metro Manila,33,2023,Metro Manila,2
+952,12/23/2023,TOY,"Superhero Masks - Thor, Ironman, Bumblebee",39,736,220,B,Metro Manila,26,2023,Metro Manila,2
+953,12/23/2023,COST-M,Catboy Costume Set PJ Masks,21,700,220,5,Metro Manila,5,2023,Metro Manila,2
+954,12/23/2023,COST-W,"Princess Anna Accessories (Crown, Wand, and Hair)",47,760,220,,Metro Manila,24,2023,Metro Manila,2
+955,12/23/2023,OVER-M,Red Cars Costume for Kids (Satin),38,740,220,15,North Luzon,38,2023,Bulacan,2
+956,12/23/2023,COST-M,Spider-man Costume for Kids (Satin),27,695,220,3,Metro Manila,36,2023,Metro Manila,2
+957,12/23/2023,TOY,Thor Costume for Kids,74,768,220,TH03,Metro Manila,36,2023,Metro Manila,2
+958,12/23/2023,OVER-M,Superman Costume for Kids (Satin),2,740,220,15,Mindanao,48,2023,Zamboanga Del Sur,2
+959,12/23/2023,COST-M,Thor Toy Hammer for Kids,43,800,220,TOY,Metro Manila,33,2023,Metro Manila,2
+960,12/23/2023,COST-M,Thor Toy Hammer for Kids,43,755,220,TOY,Visayas,33,2023,Aklan,2
+961,12/23/2023,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,801,220,T,Visayas,10,2023,Aklan,2
+962,12/23/2023,BAG,Muscle Thor Costume for Kids,68,687,220,MTH03,Mindanao,5,2023,Misamis Oriental,2
+963,12/24/2023,COST-M,Thor Toy Hammer for Kids,43,730,220,TOY,North Luzon,38,2023,Zambales,2
+964,12/24/2023,COST-M,Muscle Thor Costume for Kids,68,742,220,MT07,Metro Manila,5,2023,Metro Manila,2
+965,12/25/2023,COST-M,Thor Toy Hammer for Kids,43,800,220,TOY,South Luzon,33,2023,Laguna,2
+966,12/25/2023,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,735,220,T,South Luzon,33,2023,Laguna,2
+967,12/25/2023,COST-W,"Superhero Masks - Thor, Ironman, Bumblebee",39,689,220,B,South Luzon,39,2023,Laguna,2
+968,12/25/2023,COST-M,Thor Toy Hammer for Kids,43,850,220,TOY,Visayas,5,2023,Negros Occidental,2
+969,12/25/2023,COST-M,Batman Costume for Kids (Satin),7,720,220,7,North Luzon,10,2023,Pangasinan,2
+970,12/25/2023,COST-M,Iron Man Costume for Kids with Mask (Satin),35,750,220,15,North Luzon,33,2023,Pangasinan,2
+971,12/26/2023,MASK,Thor Toy Hammer for Kids,43,650,220,TOY,North Luzon,5,2023,Bulacan,2
+972,12/26/2023,COST-M,Superman Costume for Kids (Satin),2,691,220,9,Metro Manila,44,2023,Metro Manila,2
+973,12/26/2023,COST-M,Darna Costume for Kids,19,680,220,7,South Luzon,38,2023,Laguna,2
+974,12/26/2023,MASK,Captain America Onesie Overall for Baby (Ages 6-24 months),52,416,220,S,Mindanao,38,2023,Zamboanga Del Sur,2
+975,12/27/2023,COST-W,"Princess Anna Accessories (Crown, Wand, and Hair)",47,420,220,,Metro Manila,33,2023,Metro Manila,2
+976,12/28/2023,COST-M,Thor Toy Hammer for Kids,43,415,220,TOY,North Luzon,50,2023,Bulacan,2
+977,12/29/2023,COST-M,Captain America Onesie Overall for Baby (Ages 6-24 months),52,418,220,XL,Metro Manila,5,2023,Metro Manila,2
+978,12/29/2023,COST-M,"Princess Anna Accessories (Crown, Wand, and Hair)",47,426,220,,Metro Manila,38,2023,Metro Manila,2
+979,12/29/2023,COST-M,"Princess Elsa Accessories (Crown, Wand, and Hair)",53,436,220,,South Luzon,10,2023,Rizal,2
+980,12/29/2023,COST-M,Muscle Iron Man Costume for Kids with Mask,18,451,220,I05M,South Luzon,31,2023,Rizal,2
+981,12/30/2023,COST-M,Spongebob Backpack for Kids,28,495,220,BAG,South Luzon,38,2023,Laguna,2
+982,1/1/2024,COST-M,Superman Costume for Kids (Satin),2,585,220,5,North Luzon,5,2024,Bataan,2
+983,1/1/2024,MASK,Muscle Iron Man Costume for Kids with Mask,18,444,220,I09M,North Luzon,23,2024,Ilocos Sur,2
+984,1/1/2024,TOY,Batman Costume for Kids (Satin),7,419,220,7,South Luzon,10,2024,Cavite,2
+985,1/1/2024,COST-W,"Princess Anna Accessories (Crown, Wand, and Hair)",47,545,220,,South Luzon,9,2024,Batangas,2
+986,1/2/2024,DRSS-W,Darna Costume for Kids,19,440,220,11,South Luzon,5,2024,Masbate,2
+987,1/2/2024,COST-M,Muscle Superman Costume for Kids,17,443,220,13,Mindanao,5,2024,Agusan Del Norte,2
+988,1/4/2024,TOY,"Princess Anna Accessories (Crown, Wand, and Hair)",47,413,220,,North Luzon,39,2024,Pampanga,2
+989,1/4/2024,COST-M,Muscle Hulk Costume for Kids with Mask,44,442,220,3,North Luzon,40,2024,Bulacan,2
+990,1/4/2024,COST-M,"Superhero Masks - Thor, Ironman, Bumblebee",39,425,220,B,North Luzon,38,2024,Bulacan,2
+991,1/7/2024,COST-M,Muscle Superman Costume for Kids,17,425,220,5,Visayas,14,2024,Cebu,2
+992,1/7/2024,COST-M,Muscle Iron Man Costume for Kids with Mask,18,450,220,I03M,North Luzon,44,2024,Bulacan,2
+993,1/7/2024,TOY,"Superhero Masks - Thor, Ironman, Bumblebee",39,431,220,B,South Luzon,4,2024,Cavite,2
+994,1/7/2024,COST-M,Darna Costume for Kids,19,486,220,15,South Luzon,5,2024,Palawan,2
+995,1/8/2024,COST-M,Muscle Superman Costume for Kids,17,425,220,11,South Luzon,14,2024,Camarines Sur,2
+996,1/9/2024,MASK,Iron Man Costume for Kids with Mask (Satin),35,425,220,9,Visayas,33,2024,Bohol,2
+997,1/9/2024,DRSS-W,Sofia Crown for Kids Pink or Purple,51,450,220,,North Luzon,5,2024,Ilocos Sur,2
+998,1/10/2024,DRSS-W,Ninja Turtle Costume for Kids with Mask and Shell,15,450,220,5,Mindanao,23,2024,Davao Del Sur,2
+999,1/11/2024,COST-M,Muscle Thor Costume for Kids,68,425,220,MT03,Mindanao,22,2024,Sulu,2
